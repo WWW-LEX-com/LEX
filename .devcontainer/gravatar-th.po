@@ -1,0 +1,5177 @@
+# Translation of Gravatar in Thai
+# This file is distributed under the same license as the Gravatar package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-06-06 10:19:16+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: th\n"
+"Project-Id-Version: Gravatar\n"
+
+msgid "Help"
+msgstr ""
+
+msgid "What is Gravatar?"
+msgstr ""
+
+msgid "Gravatar Profile"
+msgstr "ข้อมูลส่วนตัว Gravatar"
+
+msgid "Add link"
+msgstr "เพิ่มลิงก์"
+
+msgid "Title"
+msgstr "หัวข้อ:"
+
+msgid "Links"
+msgstr "ลิงก์"
+
+msgid "Photos"
+msgstr "รูปภาพ"
+
+msgid "Contact"
+msgstr ""
+
+msgid "Last name"
+msgstr "นามสกุล"
+
+msgid "First name"
+msgstr "ชื่อจริง"
+
+msgid "Colors"
+msgstr ""
+
+msgid "Background"
+msgstr "พื้นหลัง"
+
+msgid "Location"
+msgstr "ที่อยู่"
+
+msgid "Display Name"
+msgstr "ชื่อที่ใช้แสดง"
+
+msgid "Your Links"
+msgstr ""
+
+msgid "Contact information"
+msgstr "ข้อมูลการติดต่อ"
+
+msgid "Log in"
+msgstr "เข้าสู่ระบบ"
+
+msgid "Next"
+msgstr "ต่อไป"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Make primary"
+msgstr "ทำให้เป็นตัวหลัก"
+
+msgid "Globally Recognized Avatars"
+msgstr "รูปประจำตัวที่ใช้ได้ทั่วโลก"
+
+msgid "Log out"
+msgstr "ออกจากระบบ"
+
+msgid "Go to your profile"
+msgstr "ไปที่ข้อมูลส่วนตัวของคุณ"
+
+msgid "Add"
+msgstr "เพิ่ม"
+
+msgid "Email"
+msgstr "อีเมล"
+
+msgid "Add an email to this account"
+msgstr "เพิ่มอีเมล์ในบัญชีนี้"
+
+msgid "Cancel"
+msgstr "ยกเลิก"
+
+msgid "Loading image editor"
+msgstr ""
+
+msgid "Vertical position"
+msgstr ""
+
+msgid "Unable to remove image."
+msgstr ""
+
+msgid "These colors may make it hard for some to read your profile."
+msgstr ""
+
+msgid "Select an image or take a photo to add to the top of your profile."
+msgstr ""
+
+msgid "Select an image or take a photo to add to the background of your profile."
+msgstr ""
+
+msgid "Sections"
+msgstr ""
+
+msgid "Replace"
+msgstr "แทนที่"
+
+#. translators: %s image recommended dimension
+msgid "Recommended size: %s"
+msgstr ""
+
+msgid "Please select an image file (jpg, png, gif) with a maximum size of 5MB"
+msgstr ""
+
+msgid "JPEG, PNG, GIF • Max 5MB"
+msgstr ""
+
+msgid "Introduction"
+msgstr "แนะนำ"
+
+msgid "Images"
+msgstr "ไฟล์รูปภาพ"
+
+msgid "Image size"
+msgstr "ขนาดรูปภาพ"
+
+msgid "Image options"
+msgstr ""
+
+msgid "Image fill"
+msgstr ""
+
+msgid "Horizontal position"
+msgstr ""
+
+msgid "Fix it"
+msgstr ""
+
+msgid "Edit payment info"
+msgstr ""
+
+msgid "Edit header image"
+msgstr ""
+
+msgid "Edit contact info"
+msgstr ""
+
+msgid "Drag to reorder"
+msgstr ""
+
+msgid "Customize the look of your profile with color schemes and images"
+msgstr ""
+
+msgid "Background image"
+msgstr "รูปพื้นหลัง"
+
+msgid "Auto-renewal has been turned on successfully."
+msgstr ""
+
+msgid "Auto-renewal has been turned off successfully."
+msgstr "การต่ออายุอัตโนมัติถูกปิดใช้งานเรียบร้อยแล้ว"
+
+msgid "You don’t have a payment method to renew this subscription. <a>Add a payment method</a>."
+msgstr ""
+
+msgid "Updating auto-renew…"
+msgstr ""
+
+msgid "There was an error updating auto-renew settings."
+msgstr ""
+
+msgid "Surface color"
+msgstr ""
+
+msgid "Surface"
+msgstr ""
+
+msgid "Nice! You are using a custom domain. You can manage the subscription here anytime."
+msgstr ""
+
+msgid "Hex code"
+msgstr ""
+
+msgid "Custom colors"
+msgstr ""
+
+msgid "Color fill"
+msgstr ""
+
+msgid "Background color"
+msgstr "สีพื้นหลัง"
+
+msgid "Accent color"
+msgstr ""
+
+msgid "Accent"
+msgstr "สำเนียง"
+
+msgid "Business Cards, Reimagined | Gravatar"
+msgstr ""
+
+msgid "Engaging Avatars & Profiles for WordPress | Gravatar"
+msgstr ""
+
+msgid "The Original Link-in-bio | Gravatar"
+msgstr ""
+
+msgid "Own Your Name With A Custom Domain | Gravatar"
+msgstr ""
+
+msgid "Transfer domain"
+msgstr "โอนโดเมน"
+
+msgid "There was an error loading data. Please try again."
+msgstr ""
+
+msgid "Stand out with a personalized domain."
+msgstr ""
+
+msgid "Renews on"
+msgstr "ต่ออายุใน"
+
+msgid "Registration and auto-renew"
+msgstr "การลงทะเบียนและการต่ออายุอัตโนมัติ"
+
+msgid "Registered on"
+msgstr "ลงทะเบียนเมื่อ"
+
+msgid "Redeem now"
+msgstr ""
+
+msgid "Profile picture on the connected account"
+msgstr ""
+
+msgid "Profile changes failed"
+msgstr ""
+
+msgid "Price"
+msgstr "ราคา"
+
+msgid "Manage DNS"
+msgstr "จัดการ DNS"
+
+msgid "Free for one year!"
+msgstr ""
+
+msgid "Expires on"
+msgstr "หมดอายุวันที่"
+
+msgid "Enable Smart Redirects with a custom domain."
+msgstr ""
+
+msgid "Edit payment details"
+msgstr ""
+
+msgid "Details"
+msgstr "รายละเอียด"
+
+msgid "Contact info, DNS, transfers, and name servers"
+msgstr ""
+
+msgid "Auto-renew is on"
+msgstr ""
+
+msgid "Auto-renew is off"
+msgstr ""
+
+msgid "Analytics and tracking IDs"
+msgstr ""
+
+msgid "Advanced settings"
+msgstr "การตั้งค่าขั้นสูง"
+
+#. translators: %s is the price.
+msgid "%s / year"
+msgstr ""
+
+msgid "Trending interests"
+msgstr ""
+
+msgid "Load more"
+msgstr "โหลดเพิ่มเติม"
+
+msgid "Search by email or username"
+msgstr ""
+
+msgid "Directory"
+msgstr ""
+
+msgid "Feel the retro vibes with a pixelated avatar."
+msgstr ""
+
+msgid "Pixel Art"
+msgstr "Pixel Art"
+
+msgid "Convert your avatar into a figurine"
+msgstr ""
+
+msgid "Figurine"
+msgstr ""
+
+msgid "Make your avatar look like an anime."
+msgstr ""
+
+msgid "Anime"
+msgstr "อนิเมะ"
+
+msgid "You can back up your public Followers and Following lists to <link>Gravatar social contacts</link>."
+msgstr ""
+
+msgid "Unable to load more results. Please try again"
+msgstr ""
+
+msgid "Unable to discard changes"
+msgstr ""
+
+msgid "This information comes from your linked account. Do you want to import it into your profile?"
+msgstr ""
+
+msgid "No results found"
+msgstr "ไม่พบผลลัพท์"
+
+msgid "Learn more →"
+msgstr ""
+
+msgid "Discard"
+msgstr ""
+
+msgid "Copy your profile and paste it into Perplexity's Settings → <a>Personalize</a>."
+msgstr ""
+
+msgid "Copy your profile and paste it into Gemini's Settings → <a>Saved info</a>."
+msgstr ""
+
+msgid "Copy your profile and paste it into Claude's Settings → <a>Profile</a> → Personal preferences."
+msgstr ""
+
+msgid "Copy your profile and paste it into ChatGPT's Settings → <a>Personalization</a> → Custom instructions."
+msgstr ""
+
+msgid "Changes have been discarded"
+msgstr ""
+
+msgid "Accept"
+msgstr "ยอมรับ"
+
+msgid "Use playful sense of humor where appropriate."
+msgstr ""
+
+msgid "Use a dry sense of humor where appropriate."
+msgstr ""
+
+msgid "Give in-depth responses."
+msgstr ""
+
+msgid "Give concise responses."
+msgstr ""
+
+msgid "Use a professional tone when responding."
+msgstr ""
+
+msgid "Use a casual tone when responding."
+msgstr ""
+
+msgid "About me"
+msgstr "เกี่ยวกับฉัน"
+
+msgid "Job title"
+msgstr ""
+
+#. translators: %s is the language name
+msgid "%s (secondary)"
+msgstr ""
+
+#. translators: %s is the language name
+msgid "%s (primary)"
+msgstr ""
+
+msgid "Profile copied"
+msgstr ""
+
+msgid "How to use"
+msgstr ""
+
+msgid "Copy your profile"
+msgstr ""
+
+#. translators: %1s is the AI Tool. Like ChatGPT, Claude, Gemini and Perplexity
+#. translators: %1s is the AI Tool
+msgid "%s's settings"
+msgstr ""
+
+msgid "Cell Phone"
+msgstr "โทรศัพท์มือถือ"
+
+msgid "Is this you?"
+msgstr "นี่คือคุณเหรอ?"
+
+msgid "Internal Server Error"
+msgstr ""
+
+msgid "Too Many Requests"
+msgstr ""
+
+msgid "Gravatar not found"
+msgstr ""
+
+msgid "Edit your profile →"
+msgstr "แก้ไขโปรไฟล์ของคุณ →"
+
+msgid "We pulled these interests from your account. Click the item to add to your Gravatar profile."
+msgstr ""
+
+msgid "We came up with these suggestions based on your profile. Just click the item to add if you like them."
+msgstr ""
+
+msgid "Verify now"
+msgstr ""
+
+#. translators: %1s is the AI tone
+msgid "Use a %s tone when responding."
+msgstr ""
+
+#. translators: %s is the AI humor
+msgid "Use a %s sense of humor where appropriate."
+msgstr ""
+
+msgid "Unable to copy profile. Please try again"
+msgstr ""
+
+msgid "This is your public profile page"
+msgstr ""
+
+msgid "Skip"
+msgstr "ข้าม"
+
+msgid "Should we add these to your profile?"
+msgstr ""
+
+msgid "Share my profile"
+msgstr ""
+
+msgid "Send a link to a few friends and invite them to join."
+msgstr ""
+
+msgid "Secondary"
+msgstr "รอง"
+
+msgid "Recommended interests"
+msgstr ""
+
+msgid "Primary"
+msgstr "บล็อกหลัก"
+
+msgid "Payment Information"
+msgstr "ข้อมูลการชำระเงิน"
+
+msgid "Online Presence"
+msgstr ""
+
+msgid "Keep editing"
+msgstr "การแก้ไขต่อไป"
+
+#. translators:  %s is the AI detail level
+msgid "Give %s responses."
+msgstr ""
+
+msgid "Customize your Gravatar page with colors, images, and vibes that match you."
+msgstr ""
+
+msgid "Customize now"
+msgstr ""
+
+msgid "Connect your social accounts to show people it’s really you."
+msgstr ""
+
+msgid "Click to add this interest"
+msgstr ""
+
+msgid "Choose the name you want to go by. You can always change it later!"
+msgstr ""
+
+#. * translators: %s is user's display name
+msgid "AI Context for %s"
+msgstr ""
+
+msgid "Add more info to your profile to help AI know you better."
+msgstr ""
+
+msgid "Add a short bio. Tell the world who you are and what you do."
+msgstr ""
+
+msgid "🎨 Make it feel like yours"
+msgstr ""
+
+msgid "🎉 You did it! Your profile is live"
+msgstr ""
+
+msgid "Playful"
+msgstr ""
+
+msgid "Make a custom AI prompt that tells any chatbot exactly who you are. Just copy, paste, go. <learn>Learn more<icon /></learn>"
+msgstr ""
+
+msgid "In-Depth"
+msgstr ""
+
+msgid "Dry"
+msgstr ""
+
+msgid "Default"
+msgstr "ค่าหลัก"
+
+msgid "Customize how you'd like AI to talk to you."
+msgstr ""
+
+msgid "Concise"
+msgstr ""
+
+msgid "Communication Preferences"
+msgstr ""
+
+msgid "Causal"
+msgstr ""
+
+msgid "AI profile builder"
+msgstr ""
+
+msgid "Social & Professional"
+msgstr ""
+
+msgid "Content"
+msgstr "เนื้อหา"
+
+msgid "Contact, Calendar & Payments"
+msgstr ""
+
+msgid "Add verified accounts, contact details, and payment accounts to start seeing autogenerated Smart Redirects."
+msgstr ""
+
+msgid "Add accounts for Smart Redirects"
+msgstr ""
+
+msgid "Your Gravatar custom domain comes with built-in Smart Redirects. No setup needed – they work automatically for all your verified accounts. <learn>Learn more<icon /></learn>"
+msgstr ""
+
+msgid "Try Again"
+msgstr "ลองใหม่อีกครั้ง"
+
+msgid "This page crashed. But hey, the good news? We already know about it."
+msgstr ""
+
+msgid "Smart redirects"
+msgstr "การเปลี่ยนเส้นทางอัจฉริยะ"
+
+msgid "Show an email address publicly. This doesn't have to be the same as your email used to log in with Gravatar."
+msgstr ""
+
+msgid "See all notifications"
+msgstr ""
+
+msgid "Private messages"
+msgstr ""
+
+msgid "Oops, that's awkward."
+msgstr ""
+
+msgid "No need to report anything - just tap refresh and give Gravatar another shot."
+msgstr ""
+
+msgid "New features"
+msgstr "คุณสมบัติพิเศษใหม่"
+
+msgid "New"
+msgstr "ใหม่"
+
+msgid "Allow anyone to send me a one-time only short message without sharing my email address with them. <learn>Learn more<icon /></learn>"
+msgstr ""
+
+msgid "Add verified accounts"
+msgstr ""
+
+msgid "Add payment accounts"
+msgstr ""
+
+msgid "Add contact info"
+msgstr ""
+
+msgid "Join Gravatar Teams"
+msgstr ""
+
+msgid "When your customers see your team online, they'll know it's you. Maintain a consistent, professional branding with our avatar customization tools."
+msgstr ""
+
+msgid "Business Cards, Reimagined"
+msgstr ""
+
+msgid "View Documentation"
+msgstr "ดูเอกสาร"
+
+msgid "Download now"
+msgstr ""
+
+msgid "Configure in Discussion settings"
+msgstr ""
+
+msgid "Activate in WordPress"
+msgstr ""
+
+msgid "Upload to wp-content/plugins"
+msgstr ""
+
+msgid "Download from <a href=\"https://wordpress.org/plugins/gravatar-enhanced/\">wordpress.org</a>"
+msgstr ""
+
+msgid "WordPress.org Download"
+msgstr ""
+
+msgid "Option 2"
+msgstr ""
+
+msgid "Visit Discussion settings"
+msgstr ""
+
+msgid "Activate"
+msgstr "ใช้งาน"
+
+msgid "Click Install Now"
+msgstr ""
+
+msgid "Search \"Gravatar Enhanced\""
+msgstr ""
+
+msgid "Go to Plugins > Add New"
+msgstr ""
+
+msgid "Add New"
+msgstr "เพิ่มอันใหม่"
+
+msgid "Plugins"
+msgstr "ปลั๊กอิน"
+
+msgid "WordPress Dashboard"
+msgstr "หน้าควบคุม"
+
+msgid "Option 1"
+msgstr ""
+
+msgid "Quick Setup"
+msgstr ""
+
+msgid "Download Free Plugin"
+msgstr ""
+
+msgid "Power up your WordPress site with <strong>Gravatar Enhanced</strong>, the official Gravatar plugin."
+msgstr ""
+
+msgid "Engaging Avatars & Profiles for WordPress"
+msgstr ""
+
+msgid "Three rounded avatars"
+msgstr ""
+
+msgid "Go to Settings > Discussion and check the \"Enable Gravatar privacy proxy\" option. This prevents user IP addresses from being shared with Gravatar."
+msgstr ""
+
+msgid "How do I enable the privacy proxy feature?"
+msgstr ""
+
+msgid "Yes. If you have WooCommerce installed, the integration activates automatically. Customers will see their avatars on account pages right away."
+msgstr ""
+
+msgid "Is the WooCommerce integration automatic?"
+msgstr ""
+
+msgid "When someone leaves a comment without a Gravatar, they receive one polite email inviting them to create an avatar. You can customize this message or turn it off completely."
+msgstr ""
+
+msgid "How does the commenter email notification work?"
+msgstr ""
+
+msgid "Yes! The plugin works seamlessly across your entire multisite network."
+msgstr ""
+
+msgid "Does it work with WordPress multisite?"
+msgstr ""
+
+msgid "You don't need an account or API keys to install and activate the plugin. And users only need Gravatar accounts if they want personalized avatars."
+msgstr ""
+
+msgid "Do I need a Gravatar account to use this plugin?"
+msgstr ""
+
+msgid "<strong>Seamless integration</strong> - automatically works when WooCommerce is active"
+msgstr ""
+
+msgid "<strong>Direct avatar management</strong> for customers without leaving your store"
+msgstr ""
+
+msgid "<strong>Avatar display on My Account pages</strong> for a personalized experience"
+msgstr ""
+
+msgid "WooCommerce logo"
+msgstr "รูปโลโก้ WooCommerce"
+
+msgid "WooCommerce Ready"
+msgstr ""
+
+msgid "<strong>No tracking</strong> of user activity across sites"
+msgstr ""
+
+msgid "<strong>Optional proxy service keeps IP addresses hidden</strong> from being exposed or logged"
+msgstr ""
+
+msgid "<strong>Private by default</strong> with automatic referrer blocking for all users"
+msgstr ""
+
+msgid "Privacy settings example"
+msgstr ""
+
+msgid "Privacy First Design"
+msgstr ""
+
+msgid "<strong>Showcase guest contributors</strong> with professional profile cards"
+msgstr ""
+
+msgid "<strong>Patterns for team pages and author bios</strong> without giving WordPress access"
+msgstr ""
+
+msgid "<strong>Add Gravatar profiles to any page or post</strong> with our custom block"
+msgstr ""
+
+msgid "WordPress profile block example"
+msgstr ""
+
+msgid "Versatile Gravatar Profile Block"
+msgstr ""
+
+msgid "<strong>Update once, changes everywhere</strong> across the entire web"
+msgstr ""
+
+msgid "<strong>Preview your hovercard instantly</strong> before changes go live"
+msgstr ""
+
+msgid "<strong>Edit Gravatar profile under Users > Your Profile</strong> without leaving WordPress"
+msgstr ""
+
+msgid "Ronnie Burt's card"
+msgstr ""
+
+msgid "Simplified Profile Management"
+msgstr ""
+
+msgid "<strong>Increased visual engagement</strong> on your blog discussions"
+msgstr ""
+
+msgid "<strong>Automatic reminders</strong> for commenters without avatars"
+msgstr ""
+
+msgid "<strong>Customizable default avatars</strong> including stylish initials"
+msgstr ""
+
+msgid "Sofia Marinos' card"
+msgstr ""
+
+msgid "Boost Comment Engagement"
+msgstr ""
+
+msgid "for teams"
+msgstr ""
+
+msgid "Developer Newsletter"
+msgstr "จดหมายข่าวผู้พัฒนา"
+
+msgid "Gravatar For Teams"
+msgstr ""
+
+msgid "WordPress Plugin"
+msgstr ""
+
+msgid "Custom Domains"
+msgstr ""
+
+msgid "Link-in-bio"
+msgstr ""
+
+msgid "Features"
+msgstr "ลักษณะพิเศษ"
+
+msgid "Unable to send message. Please try again"
+msgstr ""
+
+msgid "Tools"
+msgstr "เครื่องมือ"
+
+msgid "The message field is required"
+msgstr ""
+
+msgid "Copy card HTML"
+msgstr ""
+
+msgid "Explore Our API Options"
+msgstr ""
+
+msgid "Connect your team's Gravatar profiles with your internal tools using our developer-friendly REST API and SDKs. Easy implementation with clear documentation and support."
+msgstr ""
+
+msgid "Sync Gravatar With Your Tools"
+msgstr ""
+
+msgid "POWERFUL REST API"
+msgstr ""
+
+msgid "Manage your company's digital identity from one dashboard. Add new team members, update roles, maintain brand consistency, and keep full control over your data. A digital presence that grows with your team."
+msgstr ""
+
+msgid "Data, Always Under Control"
+msgstr ""
+
+msgid "Profile Synchronization example"
+msgstr ""
+
+msgid "Team member changed roles? New headshots after the company retreat? Update your Gravatar profile and watch changes sync instantly across the web. Hours of admin work, gone."
+msgstr ""
+
+msgid "Update Once, Change Everywhere"
+msgstr ""
+
+msgid "Branded avatars example"
+msgstr ""
+
+msgid "Branded Avatars Across The Web "
+msgstr ""
+
+msgid "Email signatures example"
+msgstr ""
+
+msgid "One dashboard to create and manage consistent email signatures across your organization. No more chasing employees for updates."
+msgstr ""
+
+msgid "Email Signatures, Made Simple"
+msgstr ""
+
+msgid "Profiles example"
+msgstr ""
+
+msgid "Team profile pages set up in minutes. Custom designs that reflect your brand, SEO-optimized, and connected to your company domain."
+msgstr ""
+
+msgid "Profile Pages for Your Team"
+msgstr ""
+
+msgid "Business cards example"
+msgstr ""
+
+msgid "Join The Waitlist"
+msgstr ""
+
+msgid "Profile pages, avatars, and email signatures that follow your team across the web. Connected to your company domain. <strong>Team branding made easy.</strong> "
+msgstr ""
+
+msgid "Gravatar is a service by Automattic, the company behind <a target=\"_blank\" href=\"https://wordpress.com\">WordPress.com</a>, Tumblr, Pocket Casts, Day One, Beeper, WooCommerce, and other popular web services. We are passionate about open-source and making the web a more accessible place."
+msgstr ""
+
+msgid "Ha! Glad you asked! Contact me on my Gravatar profile <a target=\"_blank\" href=\"https://gravatar.com/thomasatautomattic\">gravatar.com/thomasatautomattic</a>"
+msgstr ""
+
+msgid "How can I get early beta access?"
+msgstr ""
+
+msgid "Absolutely! You can run all profile pages on a subdomain: <a>team.yourcompany.com/username</a>. Or you can register a brand new domain on our sister service, <a target=\"_blank\" href=\"https://wordpress.com\">WordPress.com</a>, and map it to your Gravatar profile."
+msgstr ""
+
+msgid "Can I use my company domain?"
+msgstr ""
+
+msgid "Classic Gravatar is for individuals, while Gravatar Teams is built for companies. Teams lets your business create branded profiles for all employees, add company logos to avatars, and manage everything from one dashboard. Your HR team can update information across all profiles at once, ensuring consistent company branding wherever your team appears online."
+msgstr ""
+
+msgid "How is it different to the classic Gravatar?"
+msgstr ""
+
+msgid "Anyone on your team can set up Gravatar Teams in under 15 minutes. No credit card required."
+msgstr ""
+
+msgid "Who can set up a Gravatar Teams account?"
+msgstr ""
+
+msgid "Gravatar Teams gives your company full control over employee digital identities. Create branded profiles, consistent avatars, and professional email signatures that follow your team across the web — all managed from one simple dashboard. It’s your company’s digital business card solution"
+msgstr ""
+
+msgid "What is Gravatar Teams?"
+msgstr ""
+
+msgid "Request Early Access"
+msgstr ""
+
+msgid "Your wallet information will still be available via our API. <learn>Learn more<icon /></learn>"
+msgstr ""
+
+#. translators: %1$s and %2%s are each a number from 0 to 10
+msgid "What is the minimum of %1$s and %2$s ?"
+msgstr ""
+
+#. translators: %1$s and %2%s are each a number from 0 to 10
+msgid "What is the maximum of %1$s and %2$s ?"
+msgstr ""
+
+msgid "Add to Google Wallet"
+msgstr ""
+
+msgid "Add to Apple Wallet"
+msgstr ""
+
+msgid "Use your profile as your digital business card"
+msgstr "ใช้โปรไฟล์ของคุณเป็นบัตรธุรกิจดิจิทัลของคุณ"
+
+msgid "Gravatar is part of the Automattic family"
+msgstr "Gravatar เป็นส่วนหนึ่งของครอบครัว Automattic"
+
+msgid "What’s new"
+msgstr ""
+
+msgid "Switch profile"
+msgstr ""
+
+msgid "Note: If you update your profile, you'll need to copy and paste the email signature code again to see the changes."
+msgstr ""
+
+msgid "Email signature"
+msgstr ""
+
+msgid "Download QR"
+msgstr ""
+
+msgid "Developer API"
+msgstr ""
+
+msgid "Copy email signature"
+msgstr ""
+
+msgid "Add your Gravatar card to your email signature. Copy the code below and paste it into your email client settings. <learn>Learn more<icon /></learn>"
+msgstr ""
+
+msgid "Rock-solid reliability"
+msgstr ""
+
+msgid "Simple management"
+msgstr ""
+
+msgid "No hidden fees"
+msgstr ""
+
+msgid "Lowest renewal rates around"
+msgstr ""
+
+msgid "Domains are registered and managed with our sister company, WordPress.com, to give you the best domain experience possible:"
+msgstr ""
+
+msgid "The WordPress.com Advantage"
+msgstr ""
+
+msgid "Share your new web address"
+msgstr ""
+
+msgid "Set it up with one click"
+msgstr ""
+
+msgid "Get it free for the first year"
+msgstr ""
+
+msgid "Pick your domain (many extensions available)"
+msgstr ""
+
+msgid "How it Works"
+msgstr ""
+
+msgid "What's Included"
+msgstr ""
+
+msgid "Your domain is your identity on the web. It's how people find and remember you. Make it count."
+msgstr ""
+
+msgid "Why Your Own Domain Matters"
+msgstr ""
+
+msgid "Claim Your Custom Domain"
+msgstr ""
+
+msgid "Turn your profile into a hub with a domain that’s easy to share and remember—perfect for professionals, creators, and anyone building their personal brand."
+msgstr ""
+
+msgid "Free for the first year"
+msgstr "ฟรีปีแรก"
+
+msgid "Own Your Name With A Custom Domain"
+msgstr ""
+
+msgid "Not at all! Just click \"Claim domain\" in your Gravatar dashboard and follow the simple checkout process. Your domain will be ready in minutes."
+msgstr ""
+
+msgid "Do I need technical knowledge to set this up?"
+msgstr ""
+
+msgid "No problem. You can transfer your domain to another registrar anytime. Just remember that if you want to add a different domain to your Gravatar profile later, you'll need to register it at the standard rate."
+msgstr ""
+
+msgid "Can I use this domain for something else?"
+msgstr ""
+
+msgid "Currently, you can have one active custom domain per Gravatar profile. This keeps things simple and helps ensure your online identity stays consistent."
+msgstr ""
+
+msgid "Can I have multiple custom domains?"
+msgstr ""
+
+msgid "Not yet. We don’t support using a domain registered elsewhere for now, but it is something we’re working on. Check back soon!"
+msgstr ""
+
+msgid "Can I use a domain I already own?"
+msgstr "ฉันสามารถใช้โดเมนที่ฉันมีอยู่แล้วได้ไหม?"
+
+msgid "You can keep your domain by paying the standard renewal fee. If you choose not to renew, your profile simply reverts to your gravatar.com/username address. You’ll see your renewal fee when you get your domain, but you can also <a target=\"_blank\" href=\"https://wordpress.com/support/domains/domain-pricing-and-available-tlds/\">see renewal fees here</a>."
+msgstr ""
+
+msgid "What happens after the first free year?"
+msgstr ""
+
+msgid "Use custom email addresses with your domain (paid upgrade)."
+msgstr ""
+
+msgid "Get help with your domain or DNS should you need it."
+msgstr ""
+
+msgid "Premium Support"
+msgstr ""
+
+msgid "We’ll secure and provision your certificate, keeping visitors safe."
+msgstr ""
+
+msgid "Free SSL"
+msgstr ""
+
+msgid "Share yourname.link/pay for transactions."
+msgstr ""
+
+msgid "Use yourname.link/calendar for scheduling."
+msgstr ""
+
+msgid "Custom Shortcuts"
+msgstr ""
+
+msgid "Facebook Pixel and Google Tag Manager integration."
+msgstr ""
+
+msgid "Marketing Tools"
+msgstr "เครื่องมือการตลาด"
+
+msgid "Track visitors with Google Analytics."
+msgstr ""
+
+msgid "Smart Analytics"
+msgstr ""
+
+msgid "Simple integration with Bluesky."
+msgstr ""
+
+msgid "Bluesky username"
+msgstr ""
+
+msgid "One clean link to your entire profile."
+msgstr ""
+
+msgid "Simple Sharing"
+msgstr ""
+
+msgid "Keep your links working even if you change services."
+msgstr ""
+
+msgid "Stay Flexible"
+msgstr ""
+
+msgid "No platform lock-in. Your domain, your rules!"
+msgstr ""
+
+msgid "Own Your Space"
+msgstr ""
+
+msgid "Custom domains get 30% more clicks than generic links."
+msgstr ""
+
+msgid "Build Trust"
+msgstr ""
+
+msgid "Replace gravatar.com/username with yourname.link."
+msgstr ""
+
+msgid "Look Professional"
+msgstr ""
+
+msgid "Avatar for the author of the new feature announcement"
+msgstr ""
+
+msgid "Updated: "
+msgstr ""
+
+msgid "You Asked, We Answered"
+msgstr ""
+
+msgid "Claim Your Free Gravatar Profile Today!"
+msgstr ""
+
+msgid "Your Gravatar Profile Card"
+msgstr ""
+
+msgid "Ideal for creators."
+msgstr ""
+
+msgid "yourname.social"
+msgstr ""
+
+msgid "Great for personal profiles."
+msgstr ""
+
+msgid "yourname.bio"
+msgstr ""
+
+msgid "Perfect for social media bios."
+msgstr ""
+
+msgid "yourname.link"
+msgstr ""
+
+msgid "Create Your Domain Now"
+msgstr ""
+
+msgid "<strong>Easy setup</strong> - we handle everything"
+msgstr ""
+
+msgid "Use it for your <strong>Bluesky handle</strong> too"
+msgstr ""
+
+msgid "<strong>First year free</strong> (then $9+ per year)"
+msgstr ""
+
+msgid "Choose from popular domains like .link, .bio, or .social — free for your first year."
+msgstr ""
+
+msgid "Get Your Free Domain"
+msgstr ""
+
+msgid "Choose from beautiful color themes or create your own. Add your logo, profile photo, or background image."
+msgstr ""
+
+msgid "Style Your Page"
+msgstr ""
+
+msgid "No design skills needed. Customize in seconds."
+msgstr ""
+
+msgid "Make It Yours"
+msgstr ""
+
+msgid "Add your preferred contact methods to your profile. Your profile works like a digital business card across the web."
+msgstr ""
+
+msgid "How do people contact me?"
+msgstr ""
+
+msgid "Your Gravatar account already includes a profile page. Just log in and start adding your links and bio. Everything stays in sync automatically."
+msgstr ""
+
+msgid "I already have a Gravatar avatar – now what?"
+msgstr ""
+
+msgid "Never. You control what you share and what stays private. No data selling, no ads, and you can export your info anytime. Here’s our <a target=\"_blank\" href=\"https://support.gravatar.com/privacy-pledge/\">Privacy Pledge</a>."
+msgstr ""
+
+msgid "Do you sell my data?"
+msgstr ""
+
+msgid "Not at all! Add your links and info through our simple profile editor. No coding needed – we handle the technical stuff."
+msgstr ""
+
+msgid "Is it hard to set up?"
+msgstr ""
+
+msgid "Unlike other link-in-bio tools, your Gravatar profile syncs across millions of websites automatically. Use your own domain, export your data anytime, and never worry about lock-in. All free."
+msgstr ""
+
+msgid "What makes Gravatar different?"
+msgstr ""
+
+msgid "Link in Bio"
+msgstr "ลิงก์ในชีวประวัติ"
+
+msgid "Failed to copy"
+msgstr ""
+
+msgid "Copied successfully"
+msgstr ""
+
+msgid "Advanced details"
+msgstr ""
+
+msgid "QR - Blank"
+msgstr ""
+
+msgid "QR - Avatar"
+msgstr ""
+
+msgid "QR - Logo"
+msgstr ""
+
+msgid "JSON"
+msgstr ""
+
+msgid "Time: "
+msgstr ""
+
+msgid "Verified connections: "
+msgstr ""
+
+msgid "Created: "
+msgstr ""
+
+msgid "Languages: "
+msgstr ""
+
+msgid "Profile: "
+msgstr ""
+
+msgid "View profile →"
+msgstr "ดูโปรไฟล์ →"
+
+msgid "User avatar"
+msgstr "ผู้ใช้ avatar"
+
+msgid "Use profile data and embed profile cards in your app or website. "
+msgstr ""
+
+msgid "Craft personalized experiences with the free Gravatar Profiles API."
+msgstr ""
+
+msgid "Heya, developers!"
+msgstr ""
+
+msgid "Let people contact you without sharing your email. One link that always leads to your latest info."
+msgstr ""
+
+msgid "Stay Connected, Stay Private"
+msgstr ""
+
+msgid "Accept payments via PayPal, Venmo, or crypto. Perfect for creators, freelancers, and small businesses."
+msgstr ""
+
+msgid "Get Paid Your Way"
+msgstr ""
+
+msgid "Connect your socials, portfolio, videos, and music. Let people book time with your calendar."
+msgstr ""
+
+msgid "Share Everything"
+msgstr ""
+
+msgid "Why create a Link in Bio?"
+msgstr ""
+
+msgid "Includes free custom domain for one year."
+msgstr ""
+
+msgid "Create Your Free Profile"
+msgstr ""
+
+msgid "One profile. All your links. Complete control."
+msgstr ""
+
+msgid "Your Story, Everywhere"
+msgstr ""
+
+msgid "Just now"
+msgstr "ในตอนนี้"
+
+msgid "We were unable to load usage data. Please try again later."
+msgstr ""
+
+msgid "Search stickers"
+msgstr ""
+
+msgid "Search for the perfect stickers"
+msgstr ""
+
+msgid "Embed card"
+msgstr ""
+
+msgid "Avatar Stickers"
+msgstr ""
+
+msgid "Add it as a secondary email."
+msgstr ""
+
+msgid "Already have a Gravatar.com account?"
+msgstr ""
+
+msgid "This email is not registered. Please try a different one."
+msgstr ""
+
+msgid "This profile page is reserved specifically for you. You'll need to use the same email address that brought you here. Join millions who use Gravatar as their digital business card across WordPress, Slack, Github, and thousands of other sites."
+msgstr ""
+
+msgid "Claim your profile"
+msgstr ""
+
+msgid "Claim profile"
+msgstr ""
+
+msgid "You're in control. Make your profile private or choose what you share and when. With Gravatar, your data is yours and yours alone."
+msgstr ""
+
+msgid "New to Gravatar?"
+msgstr ""
+
+msgid "Upload sticker"
+msgstr ""
+
+msgid "Unable to save domain integration"
+msgstr ""
+
+msgid "This change is permanent."
+msgstr ""
+
+msgid "This change is irreversible"
+msgstr ""
+
+msgid "The username ‘%1s’ will be permanently abandoned"
+msgstr ""
+
+msgid "Searching…"
+msgstr ""
+
+msgid "Search for backgrounds"
+msgstr ""
+
+msgid "Search backgrounds"
+msgstr ""
+
+msgid "Profile URL updated successfully"
+msgstr ""
+
+msgid "Profile URL"
+msgstr "URL โปรไฟล์"
+
+msgid "Photos provided by <link>Pexels</link>"
+msgstr ""
+
+msgid "Oops! Something went wrong. Please try again."
+msgstr ""
+
+msgid "No results found. Please try a different search term."
+msgstr ""
+
+msgid "Google Analytics ID"
+msgstr ""
+
+msgid "Facebook Pixel ID"
+msgstr ""
+
+msgid "e.g. G-0123456789"
+msgstr ""
+
+msgid "Domain integrations"
+msgstr ""
+
+msgid "Domain integration saved successfully"
+msgstr ""
+
+msgid "Current address"
+msgstr ""
+
+msgid "Confirm Profile URL change"
+msgstr ""
+
+msgid "Confirm new URL"
+msgstr ""
+
+msgid "Changing your Profile URL will also update your WordPress.com username. This change is permanent, and ‘%1s’ will be permanently abandoned. <learn>Learn more</learn>."
+msgstr ""
+
+msgid "Changing your Profile URL will also update your WordPress.com username."
+msgstr ""
+
+msgid "Avatar Backgrounds"
+msgstr ""
+
+msgid "Your domain is live!<br/>A new home for your profile."
+msgstr ""
+
+msgid "vCard icon"
+msgstr ""
+
+msgid "Upload background"
+msgstr ""
+
+#. translators: %s is the maximum file size in MB.
+msgid "The image file size must not exceed %s MB. Please upload a smaller image."
+msgstr ""
+
+msgid "Stickers"
+msgstr ""
+
+msgid "Something went wrong while processing the image. Please try again."
+msgstr ""
+
+msgid "Processing your image, please wait…"
+msgstr ""
+
+msgid "Pending"
+msgstr "รอตรวจสอบ"
+
+msgid "Get your domain—first year free!"
+msgstr ""
+
+msgid "Filters"
+msgstr "ตัวกรอง"
+
+msgid "Claim domain"
+msgstr ""
+
+msgid "Add to Google wallet"
+msgstr ""
+
+msgid "Add to Apple wallet"
+msgstr ""
+
+msgid "make it yours, free for the first year!"
+msgstr ""
+
+msgid "Your personal address on the web."
+msgstr ""
+
+msgid "Remove Gravatar branding"
+msgstr ""
+
+msgid "Own your profile"
+msgstr ""
+
+msgid "Make your profile completely yours."
+msgstr ""
+
+msgid "Free for 1 year for new users!"
+msgstr ""
+
+msgid "Coming soon — features for custom domains only."
+msgstr ""
+
+msgid "Claim your domain"
+msgstr "เลือกโดเมนของคุณ"
+
+msgid "Claim your custom domain <strong>free for one year</strong>. Make your profile yours!"
+msgstr ""
+
+msgid "Analytics and more"
+msgstr ""
+
+msgid "Verify your Bluesky account and then you can use your Gravatar custom domain as your Bluesky username. <link>Learn more<icon /></link>"
+msgstr ""
+
+msgid "Sync with Bluesky"
+msgstr ""
+
+msgid "Sync for confirmation"
+msgstr ""
+
+msgid "Step-by-step guide"
+msgstr ""
+
+msgid "Setup your global avatar"
+msgstr ""
+
+msgid "Save as new image"
+msgstr ""
+
+msgid "Open the Setup Guide <link>here.<icon /></link>"
+msgstr ""
+
+msgid "Oops — your Bluesky handle hasn’t changed to use your Gravatar domain. <link>Follow the steps</link> to configure your new handle on Bluesky and try again."
+msgstr ""
+
+msgid "Oops — something went wrong. Please try again."
+msgstr ""
+
+msgid "Nice work! You're using your custom domain as your Bluesky username. <link>Learn more<icon /></link>"
+msgstr ""
+
+msgid "Let’s start with your name"
+msgstr ""
+
+msgid "Instagram has changed their API, so you won't be able to re-connect your Instagram account if you disconnect it."
+msgstr ""
+
+msgid "Here are the steps to setup your Gravatar custom domain as your Bluesky username:"
+msgstr ""
+
+msgid "Go to <link>bsky.app/settings/account<icon /></link> and configure your new handle."
+msgstr ""
+
+msgid "Get a custom domain, <strong>free for one year</strong>, to use as your Bluesky username. <link>Learn more<icon /></link>"
+msgstr ""
+
+msgid "Edit"
+msgstr "แก้ไข"
+
+msgid "Do it later"
+msgstr ""
+
+msgid "Custom handle available!"
+msgstr ""
+
+msgid "Custom domain"
+msgstr ""
+
+msgid "Come back here and click on ‘Sync with Bluesky’ below."
+msgstr ""
+
+msgid "Bluesky setup"
+msgstr ""
+
+msgid "Privacy options icon"
+msgstr ""
+
+msgid "Your Privacy Choices"
+msgstr ""
+
+msgid "Your Gravatar card follows you across millions of sites, showing your photo, bio, and links — your digital business card. Update once, done everywhere."
+msgstr ""
+
+msgid "Unable to save settings"
+msgstr ""
+
+msgid "Show send money button"
+msgstr ""
+
+msgid "Show header image"
+msgstr ""
+
+msgid "Show contact button"
+msgstr ""
+
+msgid "Settings saved successfully"
+msgstr ""
+
+msgid "Recommended dimensions: 1280 x 288"
+msgstr ""
+
+msgid "No image selected. Please select one or the default will be used."
+msgstr ""
+
+msgid "Let others easily send you a message."
+msgstr ""
+
+msgid "Customize your card:"
+msgstr ""
+
+msgid "Card"
+msgstr ""
+
+msgid "Bring your custom header everywhere."
+msgstr ""
+
+msgid "Accept payments or donations."
+msgstr ""
+
+msgid "View user details and avatar."
+msgstr ""
+
+msgid "Profile Card | Gravatar"
+msgstr ""
+
+msgid "Gravatar Profile Card"
+msgstr ""
+
+msgid "Sorry, we are unable to load this Gravatar profile."
+msgstr ""
+
+#. translators: This is an error message when uploading an image. %1$d and %2$d
+#. are the image dimensions in pixels
+msgid "The provided image exceeds the maximum dimensions: %1$d x %2$d"
+msgstr ""
+
+#. translators: This is an error message when uploading an image. %d is the
+#. maximum size of the image in MB
+msgid "The provided image exceeds the maximum size: %dMB"
+msgstr ""
+
+#. translators: This is an error message when uploading an image
+msgid "Failed to crop image to max avatar size"
+msgstr ""
+
+#. translators: This is an error message when uploading an image
+msgid "Unsupported image format. Please upload an image in a valid image format, such as JPEG or PNG."
+msgstr ""
+
+#. translators: This is an error message when uploading an image. %1$d and %2$d
+#. are the image dimensions
+msgid "Uploaded images must be square. The dimensions of your image are %1$d x %2$d. Please upload an image with equal width and height."
+msgstr ""
+
+#. translators: This is an error message when uploading an image
+msgid "Unsupported or corrupted image. Please upload a valid image in a supported format, such as JPEG or PNG."
+msgstr ""
+
+msgid "Tell your story"
+msgstr ""
+
+msgid "Share key details about yourself. This is your profile for the internet."
+msgstr ""
+
+msgid "Profile completion"
+msgstr ""
+
+msgid "Picture perfect"
+msgstr ""
+
+msgid "Not right now"
+msgstr "ไม่ใช่ตอนนี้"
+
+msgid "Link copied"
+msgstr ""
+
+msgid "Choose an avatar that represents you across millions of sites."
+msgstr ""
+
+msgid "Add info"
+msgstr ""
+
+msgid "Add avatar"
+msgstr ""
+
+#. translators: %1s is the current step - %2s is the total steps
+msgid "%1$s of %2$s steps"
+msgstr ""
+
+msgid "There are unsaved changes that will be lost if you continue. Do you want to proceed?"
+msgstr ""
+
+msgid "By enabling your account, your profile may become public. Once you've enabled your account, you can manage your privacy settings from the Account Settings > Privacy page. Please confirm if you would like to proceed."
+msgstr ""
+
+msgid "Unable to set your avatar's alt text."
+msgstr ""
+
+msgid "Add interest"
+msgstr ""
+
+msgid "Unable to associate badge"
+msgstr ""
+
+msgid "Cannot create any more badges"
+msgstr ""
+
+msgid "Invalid request method"
+msgstr ""
+
+msgid "User sites not found"
+msgstr ""
+
+msgid "Unable to set background image"
+msgstr ""
+
+msgid "Unable to remove background"
+msgstr ""
+
+msgid "Unable to update profile"
+msgstr ""
+
+msgid "User profile not found"
+msgstr ""
+
+msgid "Unable to delete image"
+msgstr ""
+
+msgid "Invalid avatar image"
+msgstr ""
+
+msgid "Unable to set identity image"
+msgstr ""
+
+#. translators: This is an error message when uploading an image
+msgid "Invalid image"
+msgstr ""
+
+msgid "Unable to delete identity"
+msgstr ""
+
+msgid "Invalid identity"
+msgstr ""
+
+msgid "Token expired"
+msgstr ""
+
+msgid "Unable to start backup, please try again."
+msgstr ""
+
+msgid "Invalid locale"
+msgstr ""
+
+msgid "Gravatar profiles are not allowed."
+msgstr ""
+
+msgid "Invalid url"
+msgstr ""
+
+msgid "No backups found"
+msgstr ""
+
+msgid "Invalid service"
+msgstr ""
+
+msgid "Invalid type"
+msgstr ""
+
+msgid "Invalid email"
+msgstr ""
+
+msgid "Your photos will still be available via our API. <learn>Learn more<icon /></learn>"
+msgstr ""
+
+msgid "Your links will still be available via our API. <learn>Learn more<icon /></learn>"
+msgstr ""
+
+msgid "Your accounts will still be available via our API. <learn>Learn more<icon /></learn>"
+msgstr ""
+
+msgid "Showcase websites, products, portfolios, <group>and more.</group>"
+msgstr ""
+
+msgid "Show verified accounts on public profile"
+msgstr ""
+
+msgid "Show photos on public profile"
+msgstr ""
+
+msgid "Show links on public profile"
+msgstr ""
+
+#. translators: %s is the maximum file size in MB
+msgid "Please upload an image smaller than %s MB."
+msgstr ""
+
+msgid "Please enter a valid URL without a fragment (hash symbol #)"
+msgstr ""
+
+msgid "Please enter a valid URL"
+msgstr ""
+
+msgid "New link name"
+msgstr ""
+
+msgid "If the interest isn't in the list, hit enter or add a comma to save <group>a custom interest.</group>"
+msgstr ""
+
+msgid "Add your interests"
+msgstr ""
+
+msgid "Copy link"
+msgstr "คัดลอกลิงก์"
+
+msgid "WebGL is not supported or disabled in your browser. The image editor requires WebGL to function properly. Please enable hardware acceleration in your browser settings and try again."
+msgstr ""
+
+msgid "Web"
+msgstr ""
+
+msgid "We were unable to reset the client secret. Please try again later."
+msgstr ""
+
+msgid "Upload Image"
+msgstr "อัปโหลดรูปภาพ"
+
+msgid "Unable to save cards order."
+msgstr ""
+
+msgid "Unable to remove header image."
+msgstr ""
+
+msgid "This section is currently not shown on your public profile."
+msgstr ""
+
+msgid "Reset key"
+msgstr ""
+
+msgid "Redirect URLs"
+msgstr ""
+
+msgid "Native"
+msgstr ""
+
+msgid "Maximum %s URLs are allowed"
+msgstr ""
+
+msgid "Layout"
+msgstr "เค้าโครง"
+
+msgid "Javascript Origins"
+msgstr ""
+
+msgid "Image Zoom"
+msgstr ""
+
+msgid "Header image uploaded successfully"
+msgstr ""
+
+msgid "Header image removed successfully"
+msgstr ""
+
+msgid "Header"
+msgstr "ส่วนหัว"
+
+msgid "For clients must be able to keep the generated secret private and should do all authenticated API calls server to server."
+msgstr ""
+
+msgid "For clients are those that cannot keep the generated secret private. They usually live in a user’s browser or mobile device and make client-side authenticated API calls."
+msgstr ""
+
+msgid "File size should be less than %sMB"
+msgstr ""
+
+msgid "Each URL should be less than %s characters long"
+msgstr ""
+
+msgid "Client secret reset successfully."
+msgstr ""
+
+msgid "Client Secret"
+msgstr ""
+
+msgid "Client ID"
+msgstr ""
+
+msgid "Cards order saved successfully"
+msgstr ""
+
+msgid "Arrange the cards in your profile in a way that best reflects your preferences and priorities."
+msgstr ""
+
+msgid "A small icon that represents your application in JPG, JPEG, PNG, or GIF format (max size: 5MB)."
+msgstr ""
+
+msgid "Profile is disabled"
+msgstr ""
+
+msgid "Customize your Gravatar Card by adding verified accounts, entering your bio, updating your profile picture, and including your work information. It is your business card on the web."
+msgstr ""
+
+msgid "Visit Our Blog"
+msgstr ""
+
+msgid "Latest News & Guides"
+msgstr ""
+
+msgid "Manage <span class=\"g-no-orphan\">Multiple Identities</span>"
+msgstr ""
+
+msgid "Your Profile, <span class=\"g-no-orphan\">Your Way</span>"
+msgstr ""
+
+msgid "Update Once, <span class=\"g-no-orphan\">Sync Everywhere</span>"
+msgstr ""
+
+msgid "Transform your email address into your digital passport – one avatar, one bio, social connections, <span class=\"g-no-orphan\">and verified links.</span>"
+msgstr ""
+
+msgid "Your Free Profile For <span class=\"g-no-orphan\">The Web</span>"
+msgstr ""
+
+msgid "Gravatar is an open alternative to profile page services like LinkTree. Integrated across millions of websites, Gravatar avatars and profiles ensure a consistent presence online. You have full control with no data lock-in and can use your own custom domain. Update your profile once, and it <span class=\"g-no-orphan\">updates everywhere.</span>"
+msgstr ""
+
+msgid "Create a global avatar and profile image with Gravatar. Get a free one-page personal site to showcase your identity and connect across the web."
+msgstr ""
+
+msgid "Your Free Avatar, Profile, and Link In Bio | Gravatar"
+msgstr ""
+
+msgid "Unexpected error."
+msgstr ""
+
+msgid "Invalid user login"
+msgstr ""
+
+msgid "User not found"
+msgstr ""
+
+msgid "Vertical Position"
+msgstr ""
+
+msgid "Upload a header image to further customize your Gravatar profile."
+msgstr ""
+
+msgid "Unable to update profile visibility"
+msgstr ""
+
+msgid "Replace image"
+msgstr "แทนที่รูปภาพ"
+
+msgid "Profile visibility successfully updated."
+msgstr ""
+
+msgid "Horizontal Position"
+msgstr ""
+
+msgid "Header image"
+msgstr "ภาพส่วนหัว"
+
+msgid "Full"
+msgstr "ขยายให้เต็ม"
+
+msgid "Contacts"
+msgstr "ติดต่อ"
+
+msgid "Your links have been successfully reordered."
+msgstr ""
+
+msgid "Would you like to help us improve our API? Any special requests? Give us some feedback in person"
+msgstr ""
+
+msgid "Unable to reorder links."
+msgstr ""
+
+msgid "Search…"
+msgstr ""
+
+msgid "Schedule a call: <a>choose a date on our calendar</a>"
+msgstr ""
+
+msgid "Reorder links"
+msgstr ""
+
+msgid "Questions about our API?"
+msgstr ""
+
+msgid "Let's talk!"
+msgstr ""
+
+msgid "Choose or upload your favorite avatar images and connect them to your email address."
+msgstr ""
+
+msgid "Choose a date"
+msgstr ""
+
+msgid "Avatar updated! It may take a few minutes to appear everywhere"
+msgstr ""
+
+msgid "Any feedback or requests?"
+msgstr ""
+
+msgid "Edit Your Profile"
+msgstr "แก้ไขข้อมูลส่วนตัวของคุณ"
+
+msgid "You're in control. Make your profile private or choose what you share and when. With Gravatar, your data is yours <span class=\"g-no-orphan\">and yours alone.</span>"
+msgstr ""
+
+msgid "Privacy <span class=\"g-no-orphan\">First Design</span>"
+msgstr ""
+
+msgid "Gravatar links your identity to an email address, not your name. Seamlessly manage your work, personal, and <span class=\"g-no-orphan\">anonymous profiles.</span>"
+msgstr ""
+
+msgid "Create a Site"
+msgstr ""
+
+msgid "Powered by"
+msgstr ""
+
+msgid "Privacy Notice for CA"
+msgstr ""
+
+msgid "Press"
+msgstr ""
+
+msgid "Company"
+msgstr "บริษัท"
+
+msgid "Report Abuse"
+msgstr ""
+
+msgid "Docs"
+msgstr "เอกสาร"
+
+msgid "Feature Requests"
+msgstr ""
+
+msgid "Developer Docs"
+msgstr ""
+
+msgid "Changelog"
+msgstr ""
+
+#. * translators: %s is the account title
+msgid "Verify your %s account"
+msgstr ""
+
+msgid "Uploaded image"
+msgstr ""
+
+msgid "Unable to save link"
+msgstr ""
+
+msgid "Unable to save image"
+msgstr ""
+
+msgid "Unable to remove link"
+msgstr ""
+
+msgid "This URL is already in use. Please edit this URL or delete the other link."
+msgstr ""
+
+msgid "Social accounts should be verified."
+msgstr ""
+
+msgid "Please note that you won’t be able to access your Gravatar settings while your account is disabled, but you can re-enable your account at any time."
+msgstr ""
+
+msgid "Please enter a title."
+msgstr ""
+
+msgid "Not a personal account? Mark your profile as an organization or business."
+msgstr ""
+
+msgid "Link updated successfully"
+msgstr ""
+
+msgid "Link removed successfully"
+msgstr ""
+
+msgid "Disabling your account will immediately prevent all access to your Gravatar profile. Any Gravatar data that isn’t shared with your <a>WordPress.com</a> account will be permanently deleted after 30 days unless you re-enable your account within this timeframe."
+msgstr ""
+
+msgid "Disable account"
+msgstr ""
+
+msgid "Learn More About Our APIs"
+msgstr ""
+
+msgid "Customize user experiences and bootstrap your community with verified user profiles, including avatars, social links, and more. Integrating Gravatar is effortless with our REST API, SDKs, and <span class=\"g-no-orphan\">easy-to-follow tutorials.</span>"
+msgstr ""
+
+msgid "PROFILES-AS-A-SERVICE"
+msgstr ""
+
+msgid "Tina Wells profile"
+msgstr ""
+
+msgid "Claim Your Free Profile"
+msgstr ""
+
+msgid "Share your social media profiles, portfolio, website, and other relevant links easily. Your Gravatar profile works like a digital business card — simple, elegant, and uniquely you. Perfect for <span class=\"g-no-orphan\">your link-in-bio.</span>"
+msgstr ""
+
+msgid "When you update your avatar or profile, your changes appear instantly across thousands of platforms. Save time and maintain a consistent online <span class=\"g-no-orphan\">presence effortlessly.</span>"
+msgstr ""
+
+msgid "Get Started Now"
+msgstr ""
+
+msgid "Gravatar is a service by Automattic, the company behind WordPress.com, Tumblr, Pocket Casts, Day One, Beeper, WooCommerce, and other popular web services. We are passionate about open-source and making the web a more <span class=\"g-no-orphan\">accessible place.</span>"
+msgstr ""
+
+msgid "Who owns Gravatar?"
+msgstr ""
+
+msgid "Yes! You can create different Gravatars and profiles for various aspects of your life — work, personal, hobbies, or anonymous profiles. Just create additional accounts using a different <span class=\"g-no-orphan\">email address.</span>"
+msgstr ""
+
+msgid "Can I have multiple Gravatars?"
+msgstr ""
+
+msgid "How does Gravatar compare with other <span class=\"g-no-orphan\">link-in-bio services?</span>"
+msgstr ""
+
+msgid "Absolutely! You can personalize your Gravatar profile with your own domain. You can register a domain on our sister service, WordPress.com, and map it to your <span class=\"g-no-orphan\">Gravatar profile.</span>"
+msgstr ""
+
+msgid "Can I use a custom domain?"
+msgstr ""
+
+msgid "Yes, Gravatar profiles are completely free for individual users. We're committed to providing a valuable and open service <span class=\"g-no-orphan\">for the web.</span>"
+msgstr ""
+
+msgid "Is Gravatar really free?"
+msgstr ""
+
+msgid "Your verified accounts have been successfully reordered."
+msgstr ""
+
+msgid "Your links will show images"
+msgstr ""
+
+msgid "Unable to toggle account visibility"
+msgstr ""
+
+msgid "Unable to reorder verified accounts."
+msgstr ""
+
+msgid "Unable to remove account"
+msgstr ""
+
+msgid "Show images with links"
+msgstr ""
+
+msgid "Request"
+msgstr ""
+
+msgid "Prevent all access to your profile and delete all data."
+msgstr ""
+
+msgid "Manage two-factor and authentication options on WordPress.com."
+msgstr ""
+
+msgid "Login & security"
+msgstr ""
+
+msgid "Download a zip file containing your profile data and images."
+msgstr ""
+
+msgid "Disable"
+msgstr "ปิดการใช้งาน"
+
+msgid "Add languages"
+msgstr ""
+
+msgid "Account visibility has been successfully toggled"
+msgstr ""
+
+msgid "Account removed successfully"
+msgstr ""
+
+msgid "Please log out to continue with the new account."
+msgstr ""
+
+#. translators: %s is the user's email address.
+msgid "You are already logged in to another Gravatar.com account with <strong>%s</strong>."
+msgstr ""
+
+msgid "Switch account"
+msgstr "สลับบัญชีผู้ใช้"
+
+msgid "Profile URL restricted"
+msgstr ""
+
+#. translators: Placeholder is URL to WPCOM support page.
+msgid "Any questions? You know where you can find us ;) - <a href=\"%s\">Ask us anything</a>!"
+msgstr ""
+
+msgid "Timezone"
+msgstr "เขตเวลา"
+
+msgid "Organization"
+msgstr "บริหารจัดการ"
+
+msgid "Image preview"
+msgstr ""
+
+msgid "<strong>Due to Facebook limitations, we currently can't display your profile link. <learn>Learn more</learn></strong>"
+msgstr ""
+
+msgid "First name is limited to 255 characters."
+msgstr ""
+
+msgid "If you wait a few minutes it may become active."
+msgstr ""
+
+msgid "Sorry, this page cannot be shown at the moment."
+msgstr ""
+
+msgid "Domain is not active"
+msgstr ""
+
+msgid "Your name and timezone is not shown on your public profile page (we only share the display name), but it is available to 3rd parties via our API."
+msgstr ""
+
+#. translators: %1$s and %2%s are each a number from 0 to 10
+msgid "What is %1$s + %2$s ?"
+msgstr ""
+
+msgid "We take your privacy seriously and want to be as transparent as possible. <privacy>Read our privacy docs</privacy>."
+msgstr ""
+
+msgid "We could not create your application. Try again."
+msgstr ""
+
+msgid "Security & data"
+msgstr ""
+
+msgid "Please enter a valid URL starting with http:// or https://"
+msgstr ""
+
+msgid "Organization website is limited to 250 characters."
+msgstr ""
+
+msgid "Organization name is limited to 255 characters."
+msgstr ""
+
+msgid "Human proof is required"
+msgstr ""
+
+msgid "Got it"
+msgstr "เข้าใจแล้ว"
+
+msgid "General"
+msgstr "ทั่วไป"
+
+msgid "Email is limited to 255 characters."
+msgstr ""
+
+msgid "Description is limited to 2048 characters."
+msgstr ""
+
+msgid "Application name is limited to 200 characters."
+msgstr ""
+
+msgid "Adding languages you know here can help other apps and websites know how best to interact with you."
+msgstr ""
+
+msgid "Account settings"
+msgstr "การตั้งค่าบัญชี"
+
+msgid "Create a new Gravatar profile and make it your go to place on the web."
+msgstr ""
+
+msgid "Edit your profile"
+msgstr "แก้ไขข้อมูลส่วนตัวของคุณ"
+
+msgid "Log in to send a message"
+msgstr ""
+
+#. translators: %s: custom domain.
+msgid "<p><strong>%s</strong> is now live! A brand new home for your profile.</p>"
+msgstr ""
+
+msgid "Update your profile"
+msgstr ""
+
+msgid "Help & support"
+msgstr ""
+
+msgid "Your secret key has been created. Please save it somewhere safe and accessible. For security reasons, <strong>you won't be able to view it again</strong> through your Gravatar account. If you lose this secret key, you'll need to generate a new one."
+msgstr ""
+
+msgid "Your secret API keys will be listed below. Do not share your API key with others, or expose it in the browser or other client-side code."
+msgstr ""
+
+msgid "Your feedback was not submitted. Please ensure you provide a name, valid email, and a short message."
+msgstr ""
+
+msgid "Your custom domain is processing!<br/>You will receive an email once it’s ready to use."
+msgstr ""
+
+msgid "Your Applications"
+msgstr ""
+
+msgid "When picking a name for your API key, we recommend it should reflect the purpose or function of the API. It should give users a clear idea of what the API does or what it provides access to."
+msgstr ""
+
+msgid "We were unable to save the settings. Please try again later."
+msgstr ""
+
+msgid "We were unable to save the API key. Please try again later."
+msgstr ""
+
+msgid "We were unable to remove the API key. Please try again later."
+msgstr ""
+
+msgid "We were unable to load the API keys. Please try again later."
+msgstr ""
+
+msgid "We were unable to create the API key. Please try again later."
+msgstr ""
+
+msgid "Users"
+msgstr "ผู้ใช้"
+
+msgid "Use Case Description"
+msgstr ""
+
+msgid "Usage"
+msgstr ""
+
+msgid "Thank you, we will get back to you soon!"
+msgstr ""
+
+msgid "Secret Key"
+msgstr ""
+
+msgid "Save Your Key"
+msgstr ""
+
+msgid "Please note that we do not display your secret API keys again after you generate them. In order to protect the security of your account, Gravatar may also automatically disable any API key that we've found has leaked publicly."
+msgstr ""
+
+msgid "Owner"
+msgstr ""
+
+msgid "Overview of all applications you own or have access to."
+msgstr ""
+
+msgid "Organization website is required"
+msgstr ""
+
+msgid "Organization Website"
+msgstr ""
+
+msgid "Organization name is required"
+msgstr ""
+
+msgid "Organization Name"
+msgstr ""
+
+msgid "No services found matching the criteria."
+msgstr ""
+
+msgid "Name is required."
+msgstr ""
+
+msgid "Name API Key"
+msgstr ""
+
+msgid "Name"
+msgstr "ชื่อ"
+
+msgid "Message is required."
+msgstr ""
+
+msgid "Manage user permissions for your application."
+msgstr ""
+
+msgid "Last Used"
+msgstr "ใช้งานครั้งสุดท้าย"
+
+msgid "Image updated successfully"
+msgstr ""
+
+msgid "If you have any questions or feedback about our Gravatar API, documentation or developer guidelines please contact us via the form below."
+msgstr ""
+
+msgid "I saved the key"
+msgstr ""
+
+msgid "For security reasons, you won't be able to view your key again. If you lost your secret key, you'll need to generate a new one."
+msgstr ""
+
+msgid "Error loading applications"
+msgstr ""
+
+msgid "Email is required."
+msgstr ""
+
+msgid "Edit Your Key Name"
+msgstr ""
+
+msgid "Edit or delete your application."
+msgstr ""
+
+msgid "Developer Dashboard"
+msgstr ""
+
+msgid "Developer Console"
+msgstr ""
+
+msgid "Description is required"
+msgstr ""
+
+msgid "Data below updates every hour."
+msgstr ""
+
+msgid "Created"
+msgstr "สร้างแล้ว"
+
+msgid "Create your key"
+msgstr ""
+
+msgid "Create New Application"
+msgstr ""
+
+msgid "Create new API Key"
+msgstr ""
+
+msgid "Create key"
+msgstr ""
+
+msgid "Create Application"
+msgstr ""
+
+msgid "Create an application and API key to authenticate API requests."
+msgstr ""
+
+msgid "By creating an application, you agree to the <link>Guidelines for Responsible Use of Automattic's APIs</link>."
+msgstr ""
+
+msgid "Back to form"
+msgstr ""
+
+msgid "Are you sure you want to delete this application?"
+msgstr ""
+
+msgid "Application settings saved successfully."
+msgstr ""
+
+msgid "Application name is required"
+msgstr ""
+
+msgid "Application Name"
+msgstr ""
+
+msgid "Application"
+msgstr ""
+
+msgid "API Secret Key"
+msgstr ""
+
+msgid "API Requests"
+msgstr ""
+
+msgid "API Keys"
+msgstr ""
+
+msgid "Add a short description of your application features and how you would integrate Gravatar."
+msgstr ""
+
+msgid "Connecting"
+msgstr ""
+
+msgid "Manage domain"
+msgstr ""
+
+#. translators: %s is the user's display name
+msgid "RE: %s sent you a message"
+msgstr ""
+
+msgid "Visit your profile"
+msgstr ""
+
+msgid "Your domain is now active!"
+msgstr ""
+
+#. translators: domain
+msgid "[Gravatar] Your domain %1$s is now active"
+msgstr ""
+
+#. translators: %s is the display name of the user.
+msgid "%s sent you a message"
+msgstr ""
+
+msgid "Connecting your account"
+msgstr ""
+
+#. * translators: %s email address
+msgid "By continuing you will connect your Gravatar account for <strong>%s</strong> with the QR code or NFC tag."
+msgstr ""
+
+msgid "Connect your Gravatar account"
+msgstr ""
+
+msgid "We've connected your QR code or NFC tag to your profile. Start sharing and expand your network!"
+msgstr ""
+
+msgid "Something went wrong connecting your badge. Please try again."
+msgstr ""
+
+msgid "Badge error"
+msgstr ""
+
+msgid "Claim a domain"
+msgstr ""
+
+msgid "Available"
+msgstr ""
+
+msgid "Please use only letters, numbers, spaces, comma, dot, quotes, and hyphens."
+msgstr ""
+
+#. translators: %s is translate interest
+msgid "Use the translation in your language (%s) instead of the English version."
+msgstr ""
+
+msgid "Please enter at most 128 characters."
+msgstr ""
+
+msgid "Topics"
+msgstr "กระทู้"
+
+msgid "Your interests will still be available via our API. <learn>Learn more<icon /></learn>"
+msgstr ""
+
+msgid "Show interests on public profile"
+msgstr ""
+
+msgid "Personalize your online experience with tailored content and connections across the web."
+msgstr ""
+
+msgid "Unable to unassigned interest"
+msgstr ""
+
+msgid "Interest unassigned successfully"
+msgstr ""
+
+msgid "Unable to add interest"
+msgstr ""
+
+msgid "Interest added successfully"
+msgstr ""
+
+msgid "Young Adult Literature"
+msgstr ""
+
+msgid "Yoga"
+msgstr ""
+
+msgid "Writing"
+msgstr "การเขียน"
+
+msgid "Wrestling"
+msgstr ""
+
+msgid "World/International Music"
+msgstr ""
+
+msgid "World Movies"
+msgstr ""
+
+msgid "World Cuisines"
+msgstr ""
+
+msgid "Workshops and Classes"
+msgstr ""
+
+msgid "Woodworking"
+msgstr ""
+
+msgid "Women's Health"
+msgstr ""
+
+msgid "Women's Fashion"
+msgstr ""
+
+msgid "Winter Olympic Sports"
+msgstr ""
+
+msgid "Wine Tasting"
+msgstr ""
+
+msgid "Whittling"
+msgstr ""
+
+msgid "Wellness"
+msgstr ""
+
+msgid "Weightlifting"
+msgstr ""
+
+msgid "Weight Loss"
+msgstr ""
+
+msgid "Web Hosting"
+msgstr ""
+
+msgid "Web Development"
+msgstr ""
+
+msgid "Weather"
+msgstr ""
+
+msgid "Waterskiing and Wakeboarding"
+msgstr ""
+
+msgid "Water Polo"
+msgstr ""
+
+msgid "Watching Documentaries"
+msgstr ""
+
+msgid "Walking"
+msgstr ""
+
+msgid "Volunteering"
+msgstr ""
+
+msgid "Volleyball"
+msgstr ""
+
+msgid "Vocational Training"
+msgstr ""
+
+msgid "Virtual Reality"
+msgstr ""
+
+msgid "Videography"
+msgstr ""
+
+msgid "Video Production"
+msgstr ""
+
+msgid "Video Games"
+msgstr ""
+
+msgid "Venture Capital"
+msgstr ""
+
+msgid "Vegetarian Diets"
+msgstr ""
+
+msgid "Vegan Diets"
+msgstr ""
+
+msgid "Variety (Music and Audio),"
+msgstr ""
+
+msgid "Urban Contemporary Music"
+msgstr ""
+
+msgid "Upcycling"
+msgstr ""
+
+msgid "Traveling"
+msgstr ""
+
+msgid "Travel Books"
+msgstr ""
+
+msgid "Travel"
+msgstr "การท่องเที่ยว"
+
+msgid "Track and Field"
+msgstr ""
+
+msgid "Theater"
+msgstr ""
+
+msgid "Tennis"
+msgstr ""
+
+msgid "Television"
+msgstr ""
+
+msgid "Technology"
+msgstr "เทคโนโลยี"
+
+msgid "Talk Radio"
+msgstr ""
+
+msgid "Tai Chi"
+msgstr ""
+
+msgid "Table Tennis"
+msgstr ""
+
+msgid "Swimming"
+msgstr ""
+
+msgid "Surfing and Bodyboarding"
+msgstr ""
+
+msgid "Surfing"
+msgstr ""
+
+msgid "Summer Olympic Sports"
+msgstr ""
+
+msgid "Style & Fashion"
+msgstr ""
+
+msgid "Street Style"
+msgstr ""
+
+msgid "Strategy Video Games"
+msgstr ""
+
+msgid "Storytelling"
+msgstr ""
+
+msgid "Statistics"
+msgstr "สถิติ"
+
+msgid "Startups"
+msgstr ""
+
+msgid "Stand-Up Comedy"
+msgstr ""
+
+msgid "Stamps and Coins"
+msgstr ""
+
+msgid "Stamp Collecting"
+msgstr ""
+
+msgid "Squash"
+msgstr ""
+
+msgid "Sports Video Games"
+msgstr ""
+
+msgid "Sports Radio"
+msgstr ""
+
+msgid "Sports Equipment"
+msgstr ""
+
+msgid "Sports"
+msgstr ""
+
+msgid "Space and Astronomy"
+msgstr ""
+
+msgid "Showtunes"
+msgstr ""
+
+msgid "Songwriters"
+msgstr ""
+
+msgid "Softball"
+msgstr ""
+
+msgid "Soft Rock"
+msgstr ""
+
+msgid "Social Sciences"
+msgstr ""
+
+msgid "Social Networking"
+msgstr ""
+
+msgid "Soccer"
+msgstr ""
+
+msgid "Soap Making"
+msgstr ""
+
+msgid "Snowboarding"
+msgstr ""
+
+msgid "Billiards"
+msgstr ""
+
+msgid "Smart Home"
+msgstr ""
+
+msgid "Skydiving"
+msgstr ""
+
+msgid "Skiing"
+msgstr ""
+
+msgid "Skateboarding"
+msgstr ""
+
+msgid "Simulation Video Games"
+msgstr ""
+
+msgid "Shopping"
+msgstr ""
+
+msgid "Sewing"
+msgstr ""
+
+msgid "Sculpture"
+msgstr ""
+
+msgid "Scuba Diving"
+msgstr ""
+
+msgid "Screenwriting"
+msgstr ""
+
+msgid "Scrapbooking"
+msgstr ""
+
+msgid "Scooters"
+msgstr ""
+
+msgid "Science Fiction Movies"
+msgstr ""
+
+msgid "Sci-fi and Fantasy"
+msgstr ""
+
+msgid "Sales"
+msgstr "ยอดขาย"
+
+msgid "Sailing"
+msgstr ""
+
+msgid "Running and Jogging"
+msgstr ""
+
+msgid "Running"
+msgstr ""
+
+msgid "Rugby Union"
+msgstr ""
+
+msgid "Rugby League"
+msgstr ""
+
+msgid "Rugby"
+msgstr ""
+
+msgid "Rowing"
+msgstr ""
+
+msgid "Romance Movies"
+msgstr ""
+
+msgid "Rollerblading"
+msgstr ""
+
+msgid "Roleplaying Games"
+msgstr ""
+
+msgid "Role-Playing Video Games"
+msgstr ""
+
+msgid "Rodeo"
+msgstr ""
+
+msgid "Rock Music"
+msgstr ""
+
+msgid "Rock Climbing"
+msgstr ""
+
+msgid "Robotics"
+msgstr ""
+
+msgid "Retirement Planning"
+msgstr ""
+
+msgid "Research Paper Writing"
+msgstr ""
+
+msgid "Research Methods"
+msgstr ""
+
+msgid "Reptiles"
+msgstr ""
+
+msgid "Remote Working"
+msgstr ""
+
+msgid "Remodeling & Construction"
+msgstr ""
+
+msgid "Religious Music"
+msgstr ""
+
+msgid "Reggae"
+msgstr ""
+
+msgid "Real Estate"
+msgstr ""
+
+msgid "Reading"
+msgstr "การอ่าน"
+
+msgid "RC Vehicles"
+msgstr ""
+
+msgid "Radio Control"
+msgstr ""
+
+msgid "R&B/Soul/Funk"
+msgstr ""
+
+msgid "Quilting"
+msgstr ""
+
+msgid "Puzzle Video Games"
+msgstr ""
+
+msgid "Public Radio"
+msgstr ""
+
+msgid "Psychology"
+msgstr ""
+
+msgid "Programming Languages"
+msgstr ""
+
+msgid "Product Management"
+msgstr ""
+
+msgid "Pottery"
+msgstr ""
+
+msgid "Pop Culture"
+msgstr ""
+
+msgid "Politics"
+msgstr ""
+
+msgid "Poker and Professional Gambling"
+msgstr ""
+
+msgid "Poetry"
+msgstr ""
+
+msgid "Podcasts"
+msgstr ""
+
+msgid "Piano"
+msgstr ""
+
+msgid "Physics"
+msgstr ""
+
+msgid "Physical Therapy"
+msgstr ""
+
+msgid "Photography"
+msgstr "เว็บรูปภาพ"
+
+msgid "Philosophy"
+msgstr ""
+
+msgid "Pets"
+msgstr ""
+
+msgid "Pet Adoptions"
+msgstr ""
+
+msgid "Personal Investing"
+msgstr ""
+
+msgid "Personal Finance"
+msgstr ""
+
+msgid "Personal Care"
+msgstr ""
+
+msgid "Performance Cars"
+msgstr ""
+
+msgid "PC Games"
+msgstr ""
+
+msgid "Parenting"
+msgstr ""
+
+msgid "Paranormal Phenomena"
+msgstr ""
+
+msgid "Painting"
+msgstr ""
+
+msgid "Paintball"
+msgstr ""
+
+msgid "Outdoor Decorating"
+msgstr ""
+
+msgid "Origami"
+msgstr ""
+
+msgid "Opera"
+msgstr ""
+
+msgid "Online Education"
+msgstr ""
+
+msgid "Olympic Sports"
+msgstr ""
+
+msgid "Oldies/Adult Standards"
+msgstr ""
+
+msgid "Nutrition"
+msgstr ""
+
+msgid "Non-Alcoholic Beverages"
+msgstr ""
+
+msgid "News/Talk Radio"
+msgstr ""
+
+msgid "News Radio"
+msgstr ""
+
+msgid "News and Politics"
+msgstr ""
+
+msgid "Needlework"
+msgstr ""
+
+msgid "Musical Instruments"
+msgstr ""
+
+msgid "Music and Audio"
+msgstr ""
+
+msgid "Music and Art"
+msgstr ""
+
+msgid "Music"
+msgstr "เพลง"
+
+msgid "Movies"
+msgstr ""
+
+msgid "Mountain Climbing"
+msgstr ""
+
+msgid "Motorcycling"
+msgstr ""
+
+msgid "Motorcycles"
+msgstr ""
+
+msgid "Motorcycle Sports"
+msgstr ""
+
+msgid "Modern Art"
+msgstr ""
+
+msgid "Model Toys"
+msgstr ""
+
+msgid "Mobile Games"
+msgstr ""
+
+msgid "MMOs"
+msgstr ""
+
+msgid "Mergers and Acquisitions"
+msgstr ""
+
+msgid "Men's Health"
+msgstr ""
+
+msgid "Men's Fashion"
+msgstr ""
+
+msgid "Meditation"
+msgstr ""
+
+msgid "Medicine and Healthcare"
+msgstr ""
+
+msgid "Mechanical Engineering"
+msgstr ""
+
+msgid "Martial Arts"
+msgstr ""
+
+msgid "Marketing and Advertising"
+msgstr ""
+
+msgid "Magic and Illusion"
+msgstr ""
+
+msgid "Luxury Cars"
+msgstr ""
+
+msgid "Logistics"
+msgstr ""
+
+msgid "Life Sciences"
+msgstr ""
+
+msgid "Leadership"
+msgstr ""
+
+msgid "Law"
+msgstr ""
+
+msgid "Large Animals"
+msgstr ""
+
+msgid "Language Learning"
+msgstr ""
+
+msgid "Landscaping"
+msgstr ""
+
+msgid "Lacrosse"
+msgstr ""
+
+msgid "Knitting"
+msgstr ""
+
+msgid "Kickboxing"
+msgstr ""
+
+msgid "Kayaking"
+msgstr ""
+
+msgid "Juggling"
+msgstr ""
+
+msgid "Jewelry Making"
+msgstr ""
+
+msgid "Jazz"
+msgstr ""
+
+msgid "IT and Internet Support"
+msgstr ""
+
+msgid "Investing"
+msgstr ""
+
+msgid "Internet of Things"
+msgstr ""
+
+msgid "Internet"
+msgstr ""
+
+msgid "International Relations"
+msgstr ""
+
+msgid "Interior Design"
+msgstr ""
+
+msgid "Interior Decorating"
+msgstr ""
+
+msgid "Insurance"
+msgstr ""
+
+msgid "Inspirational/New Age Music"
+msgstr ""
+
+msgid "Inline Skating"
+msgstr ""
+
+msgid "Indie and Arthouse Movies"
+msgstr ""
+
+msgid "Improv Comedy"
+msgstr ""
+
+msgid "Ice Hockey"
+msgstr ""
+
+msgid "Hunting and Shooting"
+msgstr ""
+
+msgid "Humor and Satire"
+msgstr ""
+
+msgid "Human Rights"
+msgstr ""
+
+msgid "Human Resources"
+msgstr ""
+
+msgid "Horses and Equine"
+msgstr ""
+
+msgid "Horseback Riding"
+msgstr ""
+
+msgid "Horse Racing"
+msgstr ""
+
+msgid "Horror Movies"
+msgstr ""
+
+msgid "Home Improvement"
+msgstr ""
+
+msgid "Home Entertaining"
+msgstr ""
+
+msgid "Holistic Health"
+msgstr ""
+
+msgid "History"
+msgstr "ประวัติ"
+
+msgid "Hip Hop Music"
+msgstr ""
+
+msgid "Hiking"
+msgstr ""
+
+msgid "High Fashion"
+msgstr ""
+
+msgid "Herbs and Supplements"
+msgstr ""
+
+msgid "Healthy Living"
+msgstr ""
+
+msgid "Healthy Cooking and Eating"
+msgstr ""
+
+msgid "Health"
+msgstr ""
+
+msgid "Hard Rock"
+msgstr ""
+
+msgid "Gymnastics"
+msgstr ""
+
+msgid "Green Vehicles"
+msgstr ""
+
+msgid "Governance and Society"
+msgstr ""
+
+msgid "Gospel Music"
+msgstr ""
+
+msgid "Golf"
+msgstr ""
+
+msgid "Geology"
+msgstr ""
+
+msgid "Geography"
+msgstr ""
+
+msgid "Geocaching"
+msgstr ""
+
+msgid "Genetics"
+msgstr ""
+
+msgid "Genealogy"
+msgstr ""
+
+msgid "Gardening"
+msgstr ""
+
+msgid "Gaming"
+msgstr ""
+
+msgid "Games and Puzzles"
+msgstr ""
+
+msgid "Frugal Living"
+msgstr ""
+
+msgid "Freelance Writing"
+msgstr ""
+
+msgid "Fitness"
+msgstr ""
+
+msgid "Fishing"
+msgstr ""
+
+msgid "Fish and Aquariums"
+msgstr ""
+
+msgid "Fine Art Photography"
+msgstr ""
+
+msgid "Figure Skating"
+msgstr ""
+
+msgid "Field Hockey"
+msgstr ""
+
+msgid "Fiction"
+msgstr ""
+
+msgid "Fashion Trends"
+msgstr ""
+
+msgid "Fashion"
+msgstr ""
+
+msgid "Fantasy Sports"
+msgstr ""
+
+msgid "Fantasy Movies"
+msgstr ""
+
+msgid "Family and Children Movies"
+msgstr ""
+
+msgid "Extreme Sports"
+msgstr ""
+
+msgid "Exercise and Fitness Video Games"
+msgstr ""
+
+msgid "eSports"
+msgstr ""
+
+msgid "Equine Sports"
+msgstr ""
+
+msgid "Environmentalism"
+msgstr ""
+
+msgid "Environmental Science and Sustainability"
+msgstr ""
+
+msgid "Electrical Engineering"
+msgstr ""
+
+msgid "Educational Video Games"
+msgstr ""
+
+msgid "Education"
+msgstr "การศึกษา"
+
+msgid "Economics"
+msgstr ""
+
+msgid "Driverless Cars"
+msgstr ""
+
+msgid "Drawing and Sketching"
+msgstr ""
+
+msgid "Drama Movies"
+msgstr ""
+
+msgid "Dogs"
+msgstr ""
+
+msgid "Documentary Movies"
+msgstr ""
+
+msgid "DIY Projects"
+msgstr ""
+
+msgid "Diving"
+msgstr ""
+
+msgid "Disabled Sports"
+msgstr ""
+
+msgid "Digital Arts"
+msgstr ""
+
+msgid "Digital Art"
+msgstr ""
+
+msgid "Desserts and Baking"
+msgstr ""
+
+msgid "Designer Clothing"
+msgstr ""
+
+msgid "Dash Cam Videos"
+msgstr ""
+
+msgid "Darts"
+msgstr ""
+
+msgid "Dancing"
+msgstr ""
+
+msgid "Dance and Electronic Music"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Cycling"
+msgstr ""
+
+msgid "Critical Thinking"
+msgstr ""
+
+msgid "Crime and Mystery Movies"
+msgstr ""
+
+msgid "Cricket"
+msgstr ""
+
+msgid "Crafting"
+msgstr ""
+
+msgid "Country Music"
+msgstr ""
+
+msgid "Counseling"
+msgstr ""
+
+msgid "Cooking"
+msgstr ""
+
+msgid "Cookbooks"
+msgstr ""
+
+msgid "Content Production"
+msgstr ""
+
+msgid "Top 40 Music"
+msgstr ""
+
+msgid "Consumer Electronics"
+msgstr ""
+
+msgid "Concept Cars"
+msgstr ""
+
+msgid "Computing"
+msgstr ""
+
+msgid "Comics and Graphic Novels"
+msgstr ""
+
+msgid "Comic Books"
+msgstr ""
+
+msgid "Comedy Movies"
+msgstr ""
+
+msgid "College Sports"
+msgstr ""
+
+msgid "College Radio"
+msgstr ""
+
+msgid "College Football"
+msgstr ""
+
+msgid "College Basketball"
+msgstr ""
+
+msgid "College Baseball"
+msgstr ""
+
+msgid "Collecting"
+msgstr ""
+
+msgid "Coding"
+msgstr ""
+
+msgid "Cloud Computing"
+msgstr ""
+
+msgid "Clinical Science"
+msgstr ""
+
+msgid "Climbing"
+msgstr ""
+
+msgid "Classical Music"
+msgstr ""
+
+msgid "Classic Rock"
+msgstr ""
+
+msgid "Classic Hits"
+msgstr ""
+
+msgid "Classic Cars"
+msgstr ""
+
+msgid "Civil Rights"
+msgstr ""
+
+msgid "Children's Music"
+msgstr ""
+
+msgid "Children's Literature"
+msgstr ""
+
+msgid "Children's Clothing"
+msgstr ""
+
+msgid "Chess"
+msgstr ""
+
+msgid "Chemistry"
+msgstr ""
+
+msgid "Cheerleading"
+msgstr ""
+
+msgid "Cats"
+msgstr ""
+
+msgid "Casual Games"
+msgstr ""
+
+msgid "Career Planning"
+msgstr ""
+
+msgid "Career Advice"
+msgstr ""
+
+msgid "Card Games"
+msgstr ""
+
+msgid "Car Racing"
+msgstr ""
+
+msgid "Car Culture"
+msgstr ""
+
+msgid "Canoeing and Kayaking"
+msgstr ""
+
+msgid "Candle and Soap Making"
+msgstr ""
+
+msgid "Camping"
+msgstr ""
+
+msgid "Calligraphy"
+msgstr ""
+
+msgid "Business and Finance"
+msgstr ""
+
+msgid "Accounting & Finance"
+msgstr ""
+
+msgid "Business"
+msgstr "ธุรกิจ"
+
+msgid "Budget Cars"
+msgstr ""
+
+msgid "Boxing"
+msgstr ""
+
+msgid "Bowling"
+msgstr ""
+
+msgid "Literature"
+msgstr ""
+
+msgid "Bodybuilding"
+msgstr ""
+
+msgid "Body Art"
+msgstr ""
+
+msgid "Board Games"
+msgstr ""
+
+msgid "Blues"
+msgstr ""
+
+msgid "Blogging"
+msgstr ""
+
+msgid "Birdwatching"
+msgstr ""
+
+msgid "Birds"
+msgstr ""
+
+msgid "Biology"
+msgstr ""
+
+msgid "Bioinformatics"
+msgstr ""
+
+msgid "Biographies"
+msgstr ""
+
+msgid "Biking"
+msgstr ""
+
+msgid "Beekeeping"
+msgstr ""
+
+msgid "Beauty"
+msgstr ""
+
+msgid "Beadwork"
+msgstr ""
+
+msgid "Beach Volleyball"
+msgstr ""
+
+msgid "BBQ"
+msgstr ""
+
+msgid "Basketball"
+msgstr ""
+
+msgid "Baseball"
+msgstr ""
+
+msgid "Badminton"
+msgstr ""
+
+msgid "Automobiles"
+msgstr ""
+
+msgid "Auto Technology"
+msgstr ""
+
+msgid "Auto Shows"
+msgstr ""
+
+msgid "Auto Racing"
+msgstr ""
+
+msgid "Auto Buying and Selling"
+msgstr ""
+
+msgid "Australian Rules Football"
+msgstr ""
+
+msgid "Augmented Reality"
+msgstr ""
+
+msgid "Audio Production"
+msgstr ""
+
+msgid "Astronomy"
+msgstr ""
+
+msgid "Arts and Crafts"
+msgstr ""
+
+msgid "Artificial Intelligence"
+msgstr ""
+
+msgid "Art"
+msgstr "ศิลปะ"
+
+msgid "Archery"
+msgstr ""
+
+msgid "Antiquing and Antiques"
+msgstr ""
+
+msgid "Animation Movies"
+msgstr ""
+
+msgid "Animals/Pets"
+msgstr ""
+
+msgid "Angel Investment"
+msgstr ""
+
+msgid "American Football"
+msgstr ""
+
+msgid "Alternative Rock"
+msgstr ""
+
+msgid "Alternative Music"
+msgstr ""
+
+msgid "Alternative Medicine"
+msgstr ""
+
+msgid "Adventure Video Games"
+msgstr ""
+
+msgid "Adventure Travel"
+msgstr ""
+
+msgid "Adult Education"
+msgstr ""
+
+msgid "Action Video Games"
+msgstr ""
+
+msgid "Action and Adventure Movies"
+msgstr ""
+
+#. translators: %s is service name
+msgid "Failed to confirm %s account"
+msgstr ""
+
+msgid "Opt out of messages"
+msgstr ""
+
+msgid "We didn’t give them your contact info. If you want to connect with them, you’ll need to send an email."
+msgstr ""
+
+msgid "Reply with an email"
+msgstr ""
+
+msgid "here"
+msgstr ""
+
+#. translators: %1$s: <p>, %2$s: download link, %3$s: </p>
+msgid "%1$sYour backup has been finished. You can download it from %2$s.%3$s"
+msgstr ""
+
+msgid "Your backup has been finished."
+msgstr ""
+
+msgid "Send a message to connect"
+msgstr ""
+
+msgid "Report sent, thank you for keeping Gravatar safe."
+msgstr ""
+
+msgid "Send report"
+msgstr ""
+
+msgid "Write the reason here"
+msgstr ""
+
+#. translators: %s: is the terms of service URL
+msgid "How is this Gravatar account violating the <a href=\"%s\">terms of service</a>?"
+msgstr ""
+
+msgid "Email sent"
+msgstr ""
+
+#. translators: %s is the name of the user.
+msgid "We've sent your message to %s. They can reply to your email address."
+msgstr ""
+
+msgid "We will share your message and profile details, including your email address."
+msgstr ""
+
+msgid "Send email"
+msgstr "ส่งอีเมล"
+
+#. translators: %s is the name of the user.
+msgid "Hi %s, I'd love to connect."
+msgstr ""
+
+msgid "Send message"
+msgstr ""
+
+msgid "Interests"
+msgstr "ความสนใจ"
+
+msgid "Sorry, something went wrong displaying your badge."
+msgstr ""
+
+msgid "The badge is bust"
+msgstr ""
+
+msgid "Type"
+msgstr "ชนิด"
+
+msgid "Copied!"
+msgstr "คัดลอกแล้ว"
+
+msgid "Paste the URL of this WordPress page below and click “Verify account\"."
+msgstr ""
+
+msgid "Make sure your <public>post or page is publicly available</public>!"
+msgstr ""
+
+msgid "Crop and upload"
+msgstr ""
+
+msgid "Default Gravatar"
+msgstr ""
+
+msgid "Alt text is a brief description added to images, enhancing accessibility for visually impaired users and providing context when images cannot be viewed."
+msgstr ""
+
+msgid "Alt text"
+msgstr ""
+
+msgid "Customize your profile design with colors and background images."
+msgstr ""
+
+msgid "Oops, that color doesn't have enough contrast and will be hard to read. Please try a different shade."
+msgstr ""
+
+msgid "Undo"
+msgstr "ย้อนกลับ"
+
+msgid "Select your primary color for buttons and links across your Gravatar profile."
+msgstr ""
+
+msgid "Buttons & Links"
+msgstr ""
+
+msgid "Image Size"
+msgstr "ขนาดรูปภาพ"
+
+msgid "Image Opacity"
+msgstr ""
+
+msgid "Pattern"
+msgstr "แพตเทิร์น"
+
+msgid "Full background"
+msgstr ""
+
+msgid "Image Fill"
+msgstr ""
+
+msgid "Unable to remove background image."
+msgstr ""
+
+msgid "Please upload an image file (jpg, png, gif) with a maximum size of 5MB"
+msgstr ""
+
+msgid "Gradient"
+msgstr "ไล่ระดับ"
+
+msgid "Solid"
+msgstr "ทึบ"
+
+msgid "Color Fill"
+msgstr ""
+
+msgid "Customize your profile design by choosing a background color, uploading a background image, or mixing both. Be creative!"
+msgstr ""
+
+msgid "Background image removed successfully"
+msgstr ""
+
+msgid "Background image uploaded successfully"
+msgstr ""
+
+msgid "Color (HEX)"
+msgstr ""
+
+msgid "Image uploaded successfully"
+msgstr ""
+
+msgid "Add more"
+msgstr ""
+
+msgid "Add a phone number. Choose between work, home or mobile phone."
+msgstr ""
+
+msgid "Add phone"
+msgstr ""
+
+msgid "Show more services"
+msgstr ""
+
+msgid "More services"
+msgstr ""
+
+msgid "Save order"
+msgstr ""
+
+msgid "More options"
+msgstr "ตัวเลือกเพิ่มเติม"
+
+msgid "Reorder accounts"
+msgstr ""
+
+msgid "Connected accounts"
+msgstr ""
+
+msgid "Search more services"
+msgstr ""
+
+msgid "We were unable to open the connection window. Make sure your browser is not blocking popups, and try again."
+msgstr ""
+
+msgid "Show %s on public profile"
+msgstr ""
+
+msgid "Company/Organization"
+msgstr ""
+
+msgid "Job Title"
+msgstr ""
+
+msgid "Professional"
+msgstr ""
+
+msgid "Let them know how your name sounds like."
+msgstr ""
+
+msgid "Brief description for your profile."
+msgstr ""
+
+msgid "Personal"
+msgstr "ส่วนตัว"
+
+msgid "Image saved successfully"
+msgstr ""
+
+msgid "Image removed successfully"
+msgstr ""
+
+msgid "Image alt text was changed successfully"
+msgstr ""
+
+msgid "Image rating was changed successfully"
+msgstr ""
+
+msgid "Your primary email was changed successfully"
+msgstr ""
+
+msgid "Email removed successfully"
+msgstr ""
+
+msgid "Share via Email"
+msgstr ""
+
+msgid "Email icon"
+msgstr ""
+
+msgid "Add to contacts (vCard)"
+msgstr ""
+
+msgid "Profile"
+msgstr "ข้อมูลส่วนตัว"
+
+#. translators: %s is the user's display name
+msgid "%s's avatar"
+msgstr ""
+
+msgid "Verify WordPress site"
+msgstr ""
+
+msgid "4.) Paste the URL of your page:"
+msgstr ""
+
+msgid "3.) Publish or update your page:"
+msgstr ""
+
+msgid "Go to your WordPress site and paste the embed code above into the editor of any post or page of your site. The code will create a Gutenberg block that will help us to validate your site. (You can delete this block later after this verification process is completed.)"
+msgstr ""
+
+msgid "2.) Paste the code into your WordPress site:"
+msgstr ""
+
+msgid "Code copied!"
+msgstr ""
+
+msgid "Copy code"
+msgstr ""
+
+msgid "1.) Copy the embed code below"
+msgstr ""
+
+msgid "For verifying your WordPress site, you need to add on your site a link to your Gravatar profile. This allows us to validate that you have access to your WordPress site. Please follow these steps below:"
+msgstr ""
+
+msgid "Other WordPress site"
+msgstr ""
+
+msgid "Verify site"
+msgstr ""
+
+msgid "Choose your site"
+msgstr ""
+
+msgid "Verify your WordPress site to prove ownership and to make it easier for others to find you online. Choose below if you want to verify a site on WordPress.com or a self-hosted site:"
+msgstr ""
+
+msgid "Add custom payment"
+msgstr ""
+
+msgid "Add a custom payment. Enter a name that includes only letters (A–Z, a–z), numbers (0–9), hyphens (-), and underscores (_). Spaces and other special characters are not allowed."
+msgstr ""
+
+msgid "Payment name"
+msgstr ""
+
+msgid "Please enter a valid name."
+msgstr ""
+
+#. translators: %s is the payment name, e.g. Paypal.me, Patreon, etc.
+msgid "Please use the existing \"%s\" option."
+msgstr ""
+
+msgid "Continue"
+msgstr "ต่อไป"
+
+msgid "Loading…"
+msgstr "กำลังโหลด..."
+
+msgid "An unexpected error occurred. Try again later."
+msgstr ""
+
+msgid "e.g. 123456789"
+msgstr ""
+
+msgid "Are you sure you want to delete this API key?"
+msgstr ""
+
+msgid "Retry"
+msgstr "ลองดูใหม่"
+
+msgid "Failed to verify account. Please check the URL and try again."
+msgstr ""
+
+msgid "Log in to edit your profile"
+msgstr ""
+
+msgid "If this page is yours you can log in to edit it. With a Gravatar profile you can have all your important links in one place. Your very own go to spot for all your contacts."
+msgstr ""
+
+msgid "Make your profile yours"
+msgstr ""
+
+msgid "We were unable to verify your request. Please try again later."
+msgstr ""
+
+msgid "Invalid token"
+msgstr ""
+
+msgid "Missing token"
+msgstr ""
+
+msgid "Please ensure you followed the link exactly as given."
+msgstr ""
+
+msgid "Missing action"
+msgstr ""
+
+msgid "We were unable to crop your image. Please try again later."
+msgstr ""
+
+msgid "Invalid crop"
+msgstr ""
+
+msgid "We were unable to add your email address to your account. Please try again later."
+msgstr ""
+
+msgid "Unknown error adding email address"
+msgstr ""
+
+msgid "[Gravatar] Verify email addition"
+msgstr ""
+
+msgid "Your data export is attached as a .zip file. Thanks!"
+msgstr ""
+
+msgid "[Gravatar] Your data export request"
+msgstr ""
+
+#. translators: %1s is the user's name - %2s is the user profile URL
+msgid "Check out %1$s's Gravatar profile: %2$s"
+msgstr ""
+
+#. translators: %1s is the user's name
+msgid "%1s's Gravatar Profile"
+msgstr ""
+
+msgid "Backup Mastodon account"
+msgstr ""
+
+msgid "Show wallet on public profile"
+msgstr ""
+
+msgid "just now"
+msgstr "ในตอนนี้"
+
+#. translators: %d: second value
+msgid "%d second ago"
+msgid_plural "%d seconds ago"
+msgstr[0] ""
+
+#. translators: %d: minute value
+msgid "%d minute ago"
+msgid_plural "%d minutes ago"
+msgstr[0] ""
+
+#. translators: %d: hour value
+msgid "%d hour ago"
+msgid_plural "%d hours ago"
+msgstr[0] ""
+
+#. translators: %d: day value
+msgid "%d day ago"
+msgid_plural "%d days ago"
+msgstr[0] ""
+
+#. translators: %d: week value
+msgid "%d week ago"
+msgid_plural "%d weeks ago"
+msgstr[0] ""
+
+#. translators: %d: month value
+msgid "%d month ago"
+msgid_plural "%d months ago"
+msgstr[0] ""
+
+#. translators: %d: year value
+msgid "%d year ago"
+msgid_plural "%d years ago"
+msgstr[0] ""
+
+#. translators: %s is the max image size in MB.
+msgid "Max image size: %sMB"
+msgstr ""
+
+#. translators: %s is the max image size in MB.
+msgid "Your image exceeds %sMB. Please use a smaller file."
+msgstr ""
+
+msgid "Show contact button on public profile"
+msgstr ""
+
+msgid "Add a link to your public appointment calendar. (ie. https://calendar.google.com/yourlink)"
+msgstr ""
+
+msgid "Add calendar"
+msgstr ""
+
+msgid "Add a link to a contact form on your website. (ie. https://example.com/contact)"
+msgstr ""
+
+msgid "Add contact form"
+msgstr ""
+
+msgid "Verifying…"
+msgstr ""
+
+msgid "Pronunciation"
+msgstr ""
+
+msgid "Share"
+msgstr "แบ่งปัน"
+
+msgid "Show less"
+msgstr ""
+
+msgid "Show more"
+msgstr "แสดงมากขึ้น"
+
+msgid "QR code"
+msgstr ""
+
+msgid "User icon"
+msgstr ""
+
+msgid "QR code icon"
+msgstr ""
+
+msgid "Copy Link"
+msgstr "คัดลอกลิงก์"
+
+msgid "translate"
+msgstr ""
+
+msgid "If you'd like to contribute to these translations, please head on over to <a href=\"https://translate.wordpress.com/projects/gravatar/\">the translation project here</a>, or click one of the 'translate' links below."
+msgstr ""
+
+msgid "The Gravatar website is available in the following languages. If your browser is configured to accept one of these languages, you should be redirected to the appropriate site automatically when you access Gravatar"
+msgstr ""
+
+msgid "Gravatar Translations"
+msgstr ""
+
+msgid "Work With Us"
+msgstr ""
+
+msgid "Calendar"
+msgstr "ปฎิทิน"
+
+msgid "Contact Form"
+msgstr ""
+
+msgid "Profile is set to private"
+msgstr ""
+
+msgid "Preview profile"
+msgstr ""
+
+msgid "Current URL"
+msgstr ""
+
+msgid "Change profile URL"
+msgstr ""
+
+msgid "An unknown error occurred, please try again later."
+msgstr ""
+
+msgid "Select your camera"
+msgstr ""
+
+msgid "Discourage search engines"
+msgstr ""
+
+msgid "Anyone with the profile link or your email address can access your public profile."
+msgstr ""
+
+msgid "Your Gravatar image will work across the web based on your connected email address."
+msgstr ""
+
+msgid "Public avatar"
+msgstr ""
+
+msgid "Toggle profile color picker"
+msgstr ""
+
+msgid "%s URL:"
+msgstr ""
+
+msgid "4.) Paste the URL of your WordPress page that contains the new navigation item in the field below and click “Verify account”:"
+msgstr ""
+
+msgid "3.) Make sure it has the rel attribute set to \"me\"."
+msgstr ""
+
+msgid "2.) Go to your WordPress site and add a new navigation item. It should point to your Gravatar profile page."
+msgstr ""
+
+msgid "Back"
+msgstr "กลับไป"
+
+msgid "Look up profile"
+msgstr ""
+
+msgid "Do you want to look for another profile? Try searching below:"
+msgstr ""
+
+msgid "Profile is private"
+msgstr ""
+
+msgid "Avatar URL:"
+msgstr ""
+
+msgid "Profile URL:"
+msgstr ""
+
+msgid "Avatar Image:"
+msgstr ""
+
+msgid "Result:"
+msgstr ""
+
+msgid "Have you cleared your browser cache?"
+msgstr ""
+
+msgid "Check your Gravatar image by entering your email address into the form below. If you have recently changed your Gravatar, it may take up to 10 minutes for changes to take effect."
+msgstr ""
+
+msgid "Homepage"
+msgstr "หน้าแรก"
+
+msgid "Are you looking for a specific Gravatar profile? Try searching below:"
+msgstr ""
+
+msgid "Sorry, the page you were looking for doesn't exist or has been hidden."
+msgstr ""
+
+msgid "Uh oh. Page not found"
+msgstr ""
+
+msgid "You could try our <support>support guide</support> or <developer>developer resources</developer>."
+msgstr ""
+
+msgid "Avatar"
+msgstr "รูปประจำตัว"
+
+msgid "Logout"
+msgstr "เลิกใช้งาน"
+
+msgid "Export data"
+msgstr ""
+
+msgid "Continue editing"
+msgstr ""
+
+msgid "Enter your name"
+msgstr ""
+
+msgid "Save Changes"
+msgstr "บันทึกการเปลี่ยนแปลง"
+
+msgid "This is a place to back up your contacts across all your social media sites. Import your public followers/following from accounts and connect them here."
+msgstr ""
+
+msgid "Social contacts"
+msgstr ""
+
+msgid "We were unable to export your data. Please try again."
+msgstr ""
+
+msgid "Exporting your data…"
+msgstr ""
+
+msgid "To change your password, visit WordPress.com and <a>update your settings</a>."
+msgstr ""
+
+msgid "We will ask search engines like Google NOT to index your profile."
+msgstr ""
+
+msgid "Anyone can view your profile. Please only share information you want the world to know."
+msgstr ""
+
+msgid "Public profile"
+msgstr ""
+
+msgid "We take your privacy seriously and want to be as transparent as possible. <link>Read our privacy docs</link>."
+msgstr ""
+
+msgid "Remove background image"
+msgstr "ลบรูปภาพพื้นหลัง"
+
+msgid "Upload background image"
+msgstr ""
+
+msgid "Replace background image"
+msgstr ""
+
+msgid "Design"
+msgstr "ออกแบบ"
+
+msgid "Settings"
+msgstr "ตั้งค่า"
+
+msgid "Max image size: 5MB"
+msgstr ""
+
+msgid "Image formats: JPEG, PNG, GIF"
+msgstr ""
+
+msgid "Upload some photos to tell your story."
+msgstr ""
+
+#. translators: %s is the name of the payment method
+msgid "Add your %s wallet address to make it available for friends and services."
+msgstr ""
+
+msgid "Add a custom currency. Use alphanumeric characters (0–9, a-z), and universally accepted ticker symbols from a coin aggregator like CoinMarketCap."
+msgstr ""
+
+msgid "Wallet"
+msgstr ""
+
+msgid "Edit your link and site description. Keep it short."
+msgstr ""
+
+msgid "Let people know where they can find you online and verify your accounts below:"
+msgstr ""
+
+msgid "Verified accounts"
+msgstr ""
+
+msgid "Connect secondary email addresses to the profile and set an individual avatar. <learn>Learn more</learn>."
+msgstr ""
+
+msgid "Upload or create your favorite avatar images and connect them to your email address."
+msgstr ""
+
+msgid "Avatars"
+msgstr "รูปแทนตัว"
+
+msgid "Name is limited to 255 characters."
+msgstr ""
+
+msgid "Message is limited to 255 characters."
+msgstr ""
+
+msgid "Last name is limited to 255 characters."
+msgstr ""
+
+msgid "There are pending changes that will be lost if you continue. Do you want to proceed?"
+msgstr ""
+
+msgid "My profile"
+msgstr ""
+
+msgid "Backup @mastodon.social account"
+msgstr ""
+
+msgid "Connect any Mastodon account"
+msgstr ""
+
+msgid "Connect via @mastodon.social"
+msgstr ""
+
+msgid "Cardano (ADA)"
+msgstr ""
+
+msgid "XRP"
+msgstr ""
+
+msgid "Ethereum (ETH)"
+msgstr ""
+
+msgid "Dogecoin (DOGE)"
+msgstr ""
+
+msgid "Litecoin (LTC)"
+msgstr ""
+
+msgid "Bitcoin (BTC)"
+msgstr ""
+
+msgid "Add your Venmo page."
+msgstr ""
+
+msgid "Add your Patreon page."
+msgstr ""
+
+msgid "Add your PayPal.me profile page."
+msgstr ""
+
+msgid "PayPal.me"
+msgstr ""
+
+msgid "If you wish to permanently close your account, you can do so by <a>closing your WordPress.com account</a>."
+msgstr ""
+
+msgid "Enable my Gravatar"
+msgstr ""
+
+msgid "Enable Account"
+msgstr ""
+
+msgid "Disable Account"
+msgstr ""
+
+msgid "Share your payment links and cryptocurrency wallet addresses to make them available for friends and services."
+msgstr ""
+
+#. translators: %s is the payment name, e.g. Paypal.me, Patreon, etc.
+msgid "Please enter a valid %s URL."
+msgstr ""
+
+msgid "Please enter a valid wallet address."
+msgstr ""
+
+msgid "Wallet address is limited to 300 characters."
+msgstr ""
+
+msgid "Wallet address"
+msgstr ""
+
+msgid "Please enter a valid currency code."
+msgstr ""
+
+msgid "Currency code is limited to 10 characters."
+msgstr ""
+
+msgid "Currency code"
+msgstr ""
+
+msgid "Back up"
+msgstr ""
+
+msgid "These are all your social contacts across all your verified social media accounts."
+msgstr ""
+
+#. Translators: %s is a placeholder for the route title.
+msgid "These are all your %s contacts for:"
+msgstr ""
+
+msgid "Download JSON"
+msgstr ""
+
+msgid "Could not find any contacts matching the criteria."
+msgstr ""
+
+msgid "Search users"
+msgstr ""
+
+msgid "You have no contacts."
+msgstr ""
+
+msgid "Unfortunately we've encountered an error."
+msgstr ""
+
+msgid "This will take a few minutes. We will send you an email when the backup is complete."
+msgstr ""
+
+msgid "Export"
+msgstr "นำออก"
+
+#. translators: Started %1$s = human-readable time difference
+msgctxt "%2$s = human-readable time difference"
+msgid "Started %1$s"
+msgstr ""
+
+msgid "Backing up in progress"
+msgstr ""
+
+#. translators: Last backup: %1$s = human-readable time difference
+msgctxt "%2$s = human-readable time difference"
+msgid "Last backup: %1$s"
+msgstr ""
+
+#. Label and status text for backup button
+msgid "Start new backup"
+msgstr ""
+
+#. translators: %1$s = error message %2$s = human-readable time difference
+msgctxt "%1$s = error message %2$s = human-readable time difference"
+msgid "Failed with following error \"%1$s\", %2$s"
+msgstr ""
+
+#. translators: This is an error message when uploading an image
+msgid "Failed to store image"
+msgstr ""
+
+msgid "Add a secondary email address"
+msgstr ""
+
+msgid "You have no email address. Please add one to allow your avatar to be displayed."
+msgstr ""
+
+msgid "Set primary"
+msgstr ""
+
+msgid "Are you sure you want to remove this email address?"
+msgstr ""
+
+msgid "(primary)"
+msgstr ""
+
+msgid "Choose email"
+msgstr ""
+
+msgid "Unable to remove the email."
+msgstr ""
+
+msgid "Unable to set the primary email."
+msgstr ""
+
+msgid "email@example.com"
+msgstr ""
+
+msgid "You will receive a confirmation email to activate this address."
+msgstr ""
+
+msgid "Connect multiple emails to your Gravatar account and set a specific avatar image for each."
+msgstr ""
+
+msgid "Unable to add that email address - is it a valid address?"
+msgstr ""
+
+msgid "You have added too many email addresses recently. Please try again later."
+msgstr ""
+
+msgid "This email is already connected to a Gravatar account."
+msgstr ""
+
+msgid "Finish"
+msgstr "เสร็จสิ้น"
+
+msgid "Resend Email"
+msgstr ""
+
+msgid "Click on \"Resend Email\" below, or check our <help>help documents</help>."
+msgstr ""
+
+msgid "Please click on the verification link in the email to activate your account. The email won't show in your account until it has been activated."
+msgstr ""
+
+msgid "Use camera"
+msgstr ""
+
+msgid "Please upload an image file (jpg, png, gif, heic, bmp) with a maximum size of 10MB"
+msgstr ""
+
+msgid "Unable to upload image."
+msgstr ""
+
+msgid "We are unable to access your camera due to security restrictions. If you wish to use your camera then you will need to allow access and try again."
+msgstr ""
+
+msgid "Access denied"
+msgstr "Access Denied"
+
+msgid "You will need to give permission for Gravatar to access your camera."
+msgstr ""
+
+msgid "Waiting for camera access"
+msgstr ""
+
+msgid "Retake"
+msgstr ""
+
+msgid "Camera"
+msgstr ""
+
+msgid "Capture"
+msgstr ""
+
+msgid "You have no images. Please upload one to replace the default image."
+msgstr ""
+
+msgid "Unable to remove your image."
+msgstr ""
+
+msgid "Unable to set your rating."
+msgstr ""
+
+msgid "Unable to set your primary identity."
+msgstr ""
+
+msgid "Are you sure you want to delete this image?"
+msgstr ""
+
+msgid "Save"
+msgstr "บันทึก"
+
+msgid "X (extreme)"
+msgstr ""
+
+msgid "R (restricted)"
+msgstr ""
+
+msgid "PG (parental guidance)"
+msgstr ""
+
+msgid "G (general)"
+msgstr ""
+
+msgid "Gravatar allows users to <self>self-rate</self> their images to indicate if an image is appropriate for a certain audience. <learn>Learn more</learn>."
+msgstr ""
+
+msgid "Image rating"
+msgstr ""
+
+msgid "Change rating"
+msgstr ""
+
+msgid "Delete"
+msgstr "ลบ"
+
+msgid "Image tools"
+msgstr ""
+
+msgid "Let people know how they can get in touch with you. Please be aware, these addresses and numbers are public."
+msgstr ""
+
+msgid "Contact info"
+msgstr ""
+
+msgid "Mobile Phone"
+msgstr ""
+
+msgid "Add mobile phone"
+msgstr ""
+
+msgid "Work Phone"
+msgstr ""
+
+msgid "Add work phone"
+msgstr ""
+
+msgid "Home Phone"
+msgstr ""
+
+msgid "Add a phone number. Allowed only numbers and + and - characters."
+msgstr ""
+
+msgid "Add home phone"
+msgstr ""
+
+msgid "Add email"
+msgstr ""
+
+msgid "Please enter a valid phone number."
+msgstr ""
+
+msgid "Please enter a valid email address."
+msgstr "โปรดใส่ที่อยู่อีเมลที่ใช้งานได้"
+
+msgid "Add links to your websites, blogs, or any site that you are related to or is meaningful to you."
+msgstr ""
+
+msgid "WordPress.com site"
+msgstr ""
+
+msgid "Update"
+msgstr "อัปเดต"
+
+msgid "Remove"
+msgstr "ลบออก"
+
+msgid "Description"
+msgstr "คำอธิบาย"
+
+msgid "Please enter a valid URL."
+msgstr ""
+
+#. Translators: %s is the account type.
+msgid "Verify your %s account via the links below."
+msgstr ""
+
+#. translators: %1s is the type of user verified account
+msgid "Connect %s"
+msgstr ""
+
+#. translators: %1s is the type of user verified account
+msgid "Verify your %s account via the link below. It proves ownership and makes it easier for others to find you online."
+msgstr ""
+
+msgid "Verify account"
+msgstr ""
+
+msgid "It is not a valid URL."
+msgstr ""
+
+msgid "It is not a valid anchor verification code."
+msgstr ""
+
+msgid "Verification link code:"
+msgstr ""
+
+msgid "3.) Paste the URL of your Fediverse account in the field below and click “Verify account”:"
+msgstr ""
+
+msgid "2.) Add the above Gravatar profile url to your Fediverse profile. It should be available as a <a>rel=me</a> anchor on your profile."
+msgstr ""
+
+msgid "5.) Paste the verification link code in the field below and click “Verify account”:"
+msgstr ""
+
+msgid "Step 3"
+msgstr "ขั้นตอนที่ 3"
+
+msgid "4.) Copy the provided verification link code (it contains a rel=”me” part)"
+msgstr ""
+
+msgid "Step 2"
+msgstr "ขั้นตอนที่ 2"
+
+msgid "3.) Add your Gravatar profile url to your profile meta data and save changes."
+msgstr ""
+
+msgid "Step 1"
+msgstr "ขั้นที่หนึ่ง"
+
+msgid "2.) Go to your Mastodon account, and go to the profile area to “Edit your profile”"
+msgstr ""
+
+msgid "Copy"
+msgstr "คัดลอก"
+
+msgid "1.) Copy your Gravatar profile url:"
+msgstr ""
+
+msgid "You connected the following account:"
+msgstr ""
+
+#. translators: Placeholder for the account type
+msgid "For verifying your %s account on any server please follow the following steps:"
+msgstr ""
+
+msgid "Disconnect"
+msgstr "ตัดการเชื่อมต่อ"
+
+msgid "Gravatar social contacts"
+msgstr ""
+
+msgid "Verified"
+msgstr ""
+
+msgid "Unable to save profile"
+msgstr ""
+
+msgid "Profile updated successfully"
+msgstr ""
+
+msgid "Scrollable section"
+msgstr ""
+
+msgid "Menu"
+msgstr "เมนู"
+
+msgid "Verified Accounts"
+msgstr ""
+
+msgid "Fediverse"
+msgstr ""
+
+msgid "Use a different email address"
+msgstr ""
+
+#. translators: URL
+msgid "Is this you? <a href=\"%s\">Claim your free Gravatar profile now</a>."
+msgstr ""
+
+msgid "Gravatar is used by"
+msgstr ""
+
+msgid "Invalid email address."
+msgstr "ที่อยู่อีเมลไม่ถูกต้อง"
+
+msgid "There is no profile associated with this email address."
+msgstr ""
+
+msgid "View profile"
+msgstr ""
+
+msgid "Enter email address"
+msgstr ""
+
+msgid "Your email address becomes your passport to the digital world, empowering you with complete control over your personal data."
+msgstr ""
+
+msgid "Claim your free profile"
+msgstr ""
+
+msgid "Advertising"
+msgstr ""
+
+msgid "Analytics"
+msgstr "การวิเคราะห์"
+
+msgid "Required"
+msgstr "ต้องการ"
+
+msgid "As an open source company, we take your privacy seriously and want to be as transparent as possible. So: We use cookies to collect some personal data from you (like your browsing data, IP addresses, and other unique identifiers). Some of these cookies we absolutely need in order to make things work, and others you can choose in order to optimize your experience while using our site and services."
+msgstr ""
+
+#. translators: %s user name
+msgid "Check out %s's Gravatar profile:"
+msgstr ""
+
+#. translators: %s user name
+msgid "%s's Gravatar Profile"
+msgstr ""
+
+msgid "Share Profile"
+msgstr ""
+
+msgid "Send money"
+msgstr ""
+
+msgid "Copy to clipboard"
+msgstr ""
+
+msgid "QR Code"
+msgstr ""
+
+msgid "Serialized PHP"
+msgstr ""
+
+msgid "XML"
+msgstr ""
+
+msgid "vCard"
+msgstr ""
+
+msgid "Success!"
+msgstr "สำเร็จ!"
+
+#. translators: %1s is the current step - %2s is the total steps
+msgid "%1$s of %2$s"
+msgstr ""
+
+msgid "Trouble receiving the email?"
+msgstr ""
+
+msgid "You've got mail!"
+msgstr ""
+
+msgid "It seems the page you requested doesn't exist."
+msgstr ""
+
+msgid "This is a 404"
+msgstr ""
+
+msgid "Your request was completed. Please check your primary email inbox."
+msgstr ""
+
+msgid "Venmo"
+msgstr ""
+
+msgid "Patreon"
+msgstr ""
+
+msgid "Payment Links"
+msgstr ""
+
+msgid "Payments"
+msgstr "ชำระเงิน"
+
+msgid "Gravatar logo"
+msgstr ""
+
+msgid "Confirm your email"
+msgstr ""
+
+#. translators: %s: new email address.
+msgid "<p>To add %s to your Gravatar account, we need to make sure that this is you. Please click the button below to confirm your email and continue.</p><p>If you didn't request this, please ignore this email.</p>"
+msgstr ""
+
+msgid "Confirm your email address for Gravatar"
+msgstr ""
+
+#: wp-includes/plugin.php:872
+msgid "Only a static class method or function can be used in an uninstall hook."
+msgstr "เฉพาะวิธี static class method หรือคำสั่งสามารถใช้บนการถอนการติดตั้ง hook"
+
+#. translators: 1: WordPress version number, 2: Minimum required MySQL version
+#. number.
+#: wp-includes/class-wpdb.php:3898
+msgid "<strong>Error:</strong> WordPress %1$s requires MySQL %2$s or higher"
+msgstr "<strong>ผิดพลาด</strong>: WordPress %1$s ต้องการ MySQL %2$s หรือรุ่นที่สูงกว่า"
+
+#: wp-includes/class-wpdb.php:3561
+msgid "Could not strip invalid text."
+msgstr ""
+
+#: wp-includes/class-wpdb.php:3107
+msgid "Could not retrieve table charset."
+msgstr ""
+
+#. translators: %s: Database fields where the error occurred.
+#: wp-includes/class-wpdb.php:2780
+msgid "WordPress database error: Processing the values for the following fields failed: %s. The supplied values may be too long or contain invalid data."
+msgstr ""
+
+#. translators: %s: Database field where the error occurred.
+#: wp-includes/class-wpdb.php:2774
+msgid "WordPress database error: Processing the value for the following field failed: %s. The supplied value may be too long or contains invalid data."
+msgstr ""
+
+#: wp-includes/class-wpdb.php:2283 wp-includes/class-wpdb.php:2289
+msgid "Unable to retrieve the error message from MySQL"
+msgstr "ไม่สามารถกู้ข้อความผิดพลาดจาก MySQL"
+
+#: wp-includes/class-wpdb.php:2236
+msgid "WordPress database error: Could not perform query because it contains invalid data."
+msgstr ""
+
+#: wp-includes/class-wpdb.php:2166
+msgid "Are you sure the database server is not under particularly heavy load?"
+msgstr "คุณแน่ใจหรือไม่ว่าฐานข้อมูลเซิร์ฟเวอร์ไม่ได้ทำงานหนัก?"
+
+#. translators: %s: Database host.
+#: wp-includes/class-wpdb.php:2160
+msgid "This means that the contact with the database server at %s was lost. This could mean your host&#8217;s database server is down."
+msgstr "นี่หมายถึงเราเสียการติดต่อกับฐานข้อมูลเซิร์ฟเวอร์ที่ %s  ซึ่งอาจจะหมายถึงฐานข้อมูลเซิร์ฟเวอร์โฮสท์ของคุณใช้งานไม่ได้ตอนนี้"
+
+#: wp-includes/class-wpdb.php:2156
+msgid "Error reconnecting to the database"
+msgstr "มีความผิดพลาดในการเชื่อมต่ออีกครั้งไปยังฐานข้อมูล"
+
+#. translators: %s: Support forums URL.
+#: wp-includes/class-wpdb.php:2011 wp-includes/class-wpdb.php:2171
+msgid "If you are unsure what these terms mean you should probably contact your host. If you still need help you can always visit the <a href=\"%s\">WordPress Support Forums</a>."
+msgstr ""
+
+#: wp-includes/class-wpdb.php:2006 wp-includes/class-wpdb.php:2165
+msgid "Are you sure the database server is running?"
+msgstr "คุณแน่ใจหรือไม่ว่าฐานข้อมูลเซิร์ฟเวอร์ทำงานเป็นปกติ?"
+
+#: wp-includes/class-wpdb.php:2005
+msgid "Are you sure you have typed the correct hostname?"
+msgstr "คุณมั่นใจหรือไม่ว่าได้กรอกชื่อโฮสต์ (hostname) ถูกต้อง?"
+
+msgid "Previous"
+msgstr "ก่อนหน้า"
+
+msgid "Close modal"
+msgstr ""
+
+msgid "Photo gallery image"
+msgstr ""
+
+msgid "Add custom currency"
+msgstr ""
+
+msgid "Pronouns"
+msgstr ""
+
+msgid "Do Not Sell or Share My Personal Information"
+msgstr ""
+
+msgid "Accept Selection"
+msgstr ""
+
+msgid "Accept All"
+msgstr ""
+
+msgid "Customize"
+msgstr "ปรับแต่ง"
+
+msgid "These cookies are set by us and our advertising partners to provide you with relevant content and to understand that content’s effectiveness. They may be used to collect information about your online activities over time and across different websites to predict your preferences and to display more relevant advertisements to you. These cookies also allow a profile to be built about you and your interests, and enable personalized ads to be shown to you based on your profile."
+msgstr ""
+
+msgid "These cookies allow us to optimize performance by collecting information on how users interact with our websites, including which pages are visited most, as well as other analytical data. We use these details to improve how our websites function and to understand how users interact with them. You can opt-out by logging into your account and changing your privacy settings at <a target=\"_blank\" href=\"%1$s\">%2$s</a>."
+msgstr ""
+
+msgid "These cookies are essential for our websites and services to perform basic functions and are necessary for us to operate certain features. These include those required to allow registered users to authenticate and perform account-related functions, store preferences set by users such as account name, language, and location, and ensure our services are operating properly."
+msgstr ""
+
+msgid "Your privacy is critically important to us. We and our partners use, store, and process your personal data to optimize: our <strong>website</strong> such as by improving security or conducting analytics, <strong>marketing activities</strong> to help deliver relevant marketing or content, and your <strong>user experience</strong> such as by remembering your account name, language settings, or cart information, where applicable. You can customize your cookie settings below. Learn more in our <a href=\"%1$s\" target=\"_blank\">Privacy Policy</a> and <a href=\"%2$s\" target=\"_blank\">Cookie Policy</a>."
+msgstr ""
+
+msgid "Mastodon"
+msgstr ""
+
+msgid "ICQ"
+msgstr ""
+
+msgid "Support"
+msgstr "สนับสนุน"
+
+msgid "We've sent a confirmation email to <strong>%1s</strong>."
+msgstr ""
+
+msgid "We are sorry, this profile is not available."
+msgstr ""
+
+msgid "Upload new image"
+msgstr ""
+
+msgid "Remove image"
+msgstr "ลบรูปภาพ"
+
+msgid "Got it!"
+msgstr ""
+
+msgid "Email Checker"
+msgstr ""
+
+msgid "Upload image"
+msgstr ""
+
+msgid "Enable My Gravatar"
+msgstr ""
+
+msgid "Send me my data"
+msgstr ""
+
+msgid "You need to be a verified user for this to work."
+msgstr ""
+
+msgid "Exporting will send a zip file containing your profile data and images to your primary email."
+msgstr ""
+
+msgid "Data Export"
+msgstr ""
+
+msgid "Not a verified user. Please verify your email before proceeding."
+msgstr ""
+
+msgid "View Channel"
+msgstr ""
+
+msgid "Close"
+msgstr "ปิด"
+
+msgid "Website"
+msgstr "เว็บไซต์"
+
+msgid "Phone"
+msgstr "โทรศัพท์"
+
+msgid "Learn more"
+msgstr "ดูเพิ่มเติม"
+
+msgid "Cryptocurrency"
+msgstr ""
+
+msgid "Contact Me"
+msgstr ""
+
+msgid "Background Color"
+msgstr "สีพื้นหลัง"
+
+msgid "Background Image"
+msgstr "รูปภาพพื้นหลัง"
+
+msgid "Report profile"
+msgstr ""
+
+msgid "Photo Gallery"
+msgstr ""
+
+msgid "My Profile"
+msgstr ""
+
+msgid "Gravatar uses your WordPress.com account for authentication."
+msgstr ""
+
+msgid "Change your password at WordPress.com"
+msgstr ""
+
+msgid "Report submitted. Thanks!"
+msgstr "ส่งรายงานแล้ว  ขอบคุณครับ"
+
+msgid "Other"
+msgstr "อื่น ๆ"
+
+msgid "Message"
+msgstr "ข้อความ"
+
+msgid "Your name"
+msgstr "ชื่อของคุณ"
+
+msgid "Blog"
+msgstr "บล็อกส่วนตัว"
+
+#. translators: %1$s is service name, %2$s is service name
+msgid "We were unable to confirm your %1$s account. Please try again, and make sure you grant Gravatar access during %2$s login."
+msgstr ""
+
+msgid "For Developers"
+msgstr ""
+
+msgid "Change"
+msgstr "เปลี่ยนแปลง"
+
+msgid "About Me"
+msgstr "เกี่ยวกับฉัน"
+
+msgid "Documentation"
+msgstr "เอกสารประกอบ"
+
+msgid "Languages"
+msgstr "ภาษา"
+
+msgid "About"
+msgstr "เกี่ยวกับ"
+
+msgid "Developers"
+msgstr "นักพัฒนา"
+
+msgid "Invalid request authorization. Please reload the previous page and try again."
+msgstr "การอนุมัติคำขอไม่ถูกต้อง กรุณาโหลดหน้าก่อนหน้าอีกครั้ง และลองใหม่"
+
+msgid "Invalidate cache"
+msgstr "ทำให้ Cache ใช้งานไม่ได้"
+
+msgid "Email hash:"
+msgstr ""
+
+msgid "Privacy"
+msgstr "ความเป็นส่วนตัว"
+
+msgid "Don't worry, this is surely our fault.  We've just logged this error and someone should be checking on what happened soon!"
+msgstr "ไม่ต้องกังวล  นี่เป็นความผิดของเราเอง  เราได้ทำการบันทึกความผิดพลาดและจะตรวจสอบสิ่งนี้โดยเร็ว"
+
+msgid "Whoops! Something went wrong!"
+msgstr "อืม บางอย่างทำงานผิดปกติ"
+
+msgid "Upload"
+msgstr "อัปโหลด"
+
+msgid "Link"
+msgstr "ลิงก์"
+
+msgid "Check"
+msgstr "ตรวจสอบ"
+
+msgid "Email Addresses"
+msgstr ""
+
+msgid "Address"
+msgstr "ที่อยู่"
+
+msgid "Report abuse"
+msgstr "รายงานการทำผิด"
+
+msgid "Terms of Service"
+msgstr "เงื่อนไขการบริการ"
+
+msgid "Privacy Policy"
+msgstr "นโยบายความเป็นส่วนตัว"
+
+msgid "Submit"
+msgstr "ส่ง"
+
+msgid "Verification failed"
+msgstr "การยืนยันล้มเหลว"
+
+#. translators: %s is the service name
+msgid "We were unable to complete the verification of your %s account right now. Please try again a bit later."
+msgstr "เราไม่สามารถทำการยืนยันบัญชี %s ของคุณให้เสร็จในเวลานี้ได้  โปรดลองใหม่ภายหลัง"
+
+#. translators: %s service name
+msgid "Failed to connect to %s"
+msgstr "ล้มเหลวในการเชื่อมต่อไปยัง %s"
+
+#. translators: %s service name
+msgid "For some reason, we're not currently able to connect to %s and verify your account. Please try again later."
+msgstr "สำหรับบางเหตุผล  เราไม่สามารถเชื่อไปยัง %s และทำการยืนยันบัญชีของคุณ โปรดลองใหม่ภายหลัง "
